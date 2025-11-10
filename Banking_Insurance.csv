@@ -1,0 +1,1001 @@
+Client_ID,Client_Name,Industry_Sector,Country,Annual_Revenue_USD,Number_of_Employees,Risk_Score,Insurance_Premium_USD,Claims_Made_Last_12_Months,Last_Claim_Amount_USD,Policy_Start_Date,Policy_End_Date,Is_High_Risk,Notes
+C0858,NextGen Enterprises,,,1812503.0,3685,19.0,47998.0,Y,42043,2023-11-02,2025-03-29,No,Late claims
+C0709,Prime Enterprises,Telecom,India,9794402.0,3618,70.0,44121.0,Y,56984,2020-06-29,2026-01-20,Y,Data mismatch
+C0477,Allied Corp,Healthcare,UK,775510.0,4076,33.0,60103.0,N,23185,2018-05-31,2026-08-25,N,Frequent small claims
+C0143,Allied Enterprises,Retail,India,6800379.0,3826,63.0,88555.0,YES,16193,2020-05-10,2026-03-20,Yes,Clean history
+C0150,Global Ltd,Retail,Singapore,2335000.0,3900,86.0,96703.0,Y,12360,2019-09-05,2026-02-14,No,Late claims
+C0825,Secure Ltd,Telecom,Australia,9353517.0,2913,47.0,111611.0,Y,35903,2023-12-18,2025-04-14,N,Clean history
+C0671,Prime Corp,Energy,Canada,3567366.0,63,63.0,168865.0,N,84748,2020-02-10,2025-06-22,No,Policy renewal pending
+C0209,NextGen Pvt,Healthcare,Australia,6504003.0,3409,10.0,7352.0,Y,75945,2021-10-09,2025-07-09,Y,Clean history
+C0943,Prime Solutions,Manufacturing,Germany,9159296.0,757,45.0,163199.0,NO,66788,2019-02-15,2025-02-19,No,Policy renewal pending
+C0289,NextGen Enterprises,Manufacturing,UK,4141776.0,2682,2.0,77805.0,Yes,7352,2020-11-07,2026-10-25,N,Good client
+C0887,Global Ltd,Financial Institutions,UK,6609590.0,3147,53.0,,N,66983,2023-05-23,2026-06-18,Y,Frequent small claims
+C0170,NextGen Corp,Manufacturing,Australia,5059617.0,2170,90.0,184587.0,N,93027,,2025-02-11,Y,Data mismatch
+C0176,XYZ Corp,Technology,Canada,913168.0,4170,36.0,103746.0,Y,42051,2024-08-22,2026-06-22,Y,Data mismatch
+C0517,XYZ Enterprises,Healthcare,Canada,1432397.0,2483,100.0,10842.0,NO,8026,2019-07-08,2026-10-21,Yes,Data mismatch
+C0567,Secure Solutions,Telecom,Singapore,1634837.0,2106,68.0,169074.0,N,84811,2019-11-01,2025-05-15,Yes,Late claims
+C0522,ABC Enterprises,Financial Institutions,USA,9005921.0,4217,35.0,22508.0,No,42239,2021-09-16,2026-10-12,Y,Needs review
+C0810,NextGen Enterprises,Telecom,Germany,487952.0,966,40.0,90744.0,Y,42788,2019-05-23,2026-12-07,Y,Good client
+C0190,NextGen Enterprises,Financial Institutions,Germany,9170277.0,379,99.0,36778.0,NO,82289,2020-01-05,2025-07-25,Y,Data mismatch
+C0966,Prime Solutions,Financial Institutions,,594592.0,711,71.0,147228.0,Y,6901,2024-06-27,2026-01-09,Yes,Frequent small claims
+C0197,ABC Solutions,Manufacturing,Australia,2756138.0,388,42.0,66516.0,No,94574,2019-02-03,2025-05-15,Yes,Good client
+C0551,Prime Solutions,Technology,Australia,7768216.0,1999,80.0,62505.0,YES,35931,2023-04-13,2025-08-29,Yes,Data mismatch
+C0229,ABC Solutions,Retail,Canada,2304664.0,3092,32.0,104931.0,Yes,53053,2018-01-07,2025-11-14,N,Needs review
+C0689,Prime Corp,Telecom,Canada,9753648.0,4446,51.0,95270.0,No,96462,2019-11-27,2026-07-01,N,Frequent small claims
+C0160,Allied Pvt,Manufacturing,USA,6557294.0,4903,,99333.0,YES,2642,2024-05-09,2025-03-29,N,Needs review
+C0543,ABC Pvt,Financial Institutions,Canada,7102587.0,641,86.0,57389.0,No,77299,2020-07-30,2026-01-11,No,Good client
+C0612,ABC Solutions,Financial Institutions,Canada,5287480.0,4694,61.0,86029.0,N,27526,2024-08-27,2026-05-05,No,Needs review
+C0512,NextGen Corp,Retail,Singapore,4332406.0,1925,49.0,59040.0,No,22010,2022-08-13,2025-02-07,Y,Frequent small claims
+C0577,Allied Corp,Energy,UK,6650670.0,4256,20.0,25132.0,N,40172,2024-06-24,2025-11-12,Yes,Data mismatch
+C0400,Secure Pvt,Financial Institutions,India,,2453,78.0,64766.0,NO,47221,2019-02-11,2025-06-23,N,Needs review
+C0834,ABC Ltd,Energy,India,8874533.0,3421,14.0,117492.0,NO,35179,2023-01-17,2025-03-23,No,Good client
+C0979,Allied Solutions,Financial Institutions,Singapore,,3009,55.0,143335.0,Y,14079,2022-06-04,2026-12-12,Y,Late claims
+C0856,Global Enterprises,Retail,India,886667.0,1013,62.0,71668.0,Y,99165,2020-11-09,2026-07-11,Y,Data mismatch
+C0515,Allied Ltd,Healthcare,Australia,4526219.0,1066,64.0,21211.0,NO,2890,2020-10-21,2025-11-30,Y,Needs review
+C0504,Global Ltd,Manufacturing,USA,2486488.0,3949,35.0,103538.0,Y,91881,2024-08-29,2025-06-27,Yes,Late claims
+C0890,Secure Corp,Financial Institutions,Canada,4983680.0,2475,40.0,67433.0,NO,59287,2024-09-27,2026-06-10,N,Data mismatch
+C0192,Secure Enterprises,Technology,India,7203230.0,3944,52.0,159245.0,N,78513,2018-08-21,2026-03-15,No,Frequent small claims
+C0215,XYZ Solutions,Retail,Australia,2855423.0,4395,34.0,55098.0,YES,90480,2020-09-13,2025-01-10,No,Late claims
+C0919,ABC Solutions,Retail,Canada,6456228.0,1150,12.0,158390.0,NO,64729,2024-03-31,2026-09-14,No,Late claims
+C0212,ABC Ltd,Manufacturing,Germany,1707618.0,450,21.0,13556.0,NO,62956,2024-09-18,2025-01-09,Yes,Data mismatch
+C0763,Prime Solutions,Technology,,3820464.0,3535,60.0,81253.0,NO,83055,2022-05-05,2025-03-01,N,Policy renewal pending
+C0347,Prime Ltd,Telecom,UK,218834.0,4666,52.0,56151.0,Yes,30816,2020-11-06,2026-03-13,Yes,Late claims
+C0242,ABC Pvt,Technology,Canada,4615488.0,4009,24.0,25219.0,Yes,5283,2020-08-09,2025-09-13,Yes,Clean history
+C0292,Secure Solutions,Telecom,Singapore,5230397.0,2284,32.0,127813.0,N,97493,2024-10-13,2026-01-11,Y,Data mismatch
+C0285,NextGen Enterprises,Energy,Germany,1518175.0,195,21.0,100071.0,Yes,24417,2023-01-19,2026-03-10,No,Frequent small claims
+C0218,Prime Enterprises,,Canada,7713287.0,4480,86.0,131060.0,NO,62943,2019-03-31,2025-04-26,N,Policy renewal pending
+C0641,Global Corp,Financial Institutions,Canada,2432517.0,1847,76.0,198594.0,Y,65901,,2026-01-09,Yes,Good client
+C0455,Global Solutions,Healthcare,Germany,4297571.0,3603,24.0,173785.0,Yes,51831,2018-02-04,2025-01-13,Yes,Frequent small claims
+C0563,Global Corp,Manufacturing,,5758796.0,1945,84.0,,NO,44516,2020-09-08,2026-05-17,No,Data mismatch
+C0572,ABC Solutions,Technology,India,5321816.0,765,70.0,67507.0,NO,60935,2018-08-29,2026-06-14,Yes,Late claims
+C0972,Prime Solutions,Financial Institutions,Canada,8956884.0,1066,45.0,82603.0,N,8263,2022-03-08,2026-06-04,Y,Data mismatch
+C0460,Secure Corp,Telecom,USA,631831.0,88,100.0,184760.0,YES,76274,2023-03-19,2025-06-10,Yes,Data mismatch
+C0758,Global Pvt,Telecom,Singapore,1315502.0,1568,93.0,60745.0,Yes,23470,2020-12-08,2026-01-15,N,Good client
+C0067,Secure Ltd,Retail,Germany,5696411.0,2248,14.0,182809.0,YES,112,2023-09-19,2025-05-19,Yes,Needs review
+C0790,Prime Corp,Manufacturing,Singapore,9014501.0,3223,82.0,141039.0,N,21119,,2026-01-16,Y,Good client
+C0166,ABC Pvt,Telecom,Canada,6584531.0,4510,5.0,137001.0,Y,48442,2018-02-11,2026-07-13,Y,Late claims
+C0129,XYZ Ltd,Manufacturing,USA,6316204.0,4313,7.0,98547.0,NO,90265,2024-05-20,2026-05-12,Y,Clean history
+C0613,Global Ltd,Manufacturing,Canada,1278049.0,361,61.0,98574.0,No,73493,2023-08-03,2025-06-05,Y,Policy renewal pending
+C0017,Global Corp,Manufacturing,UK,203355.0,3439,62.0,8828.0,NO,34675,2021-10-04,2025-08-30,No,Needs review
+C0997,Secure Ltd,Healthcare,Australia,5886265.0,1816,57.0,,YES,15916,2019-09-24,2026-06-20,N,Data mismatch
+C0448,ABC Solutions,Financial Institutions,Germany,2748790.0,956,60.0,89227.0,YES,36468,2019-01-15,2025-04-13,No,Needs review
+C0373,Secure Pvt,Energy,,3479569.0,3980,72.0,143367.0,N,5520,2020-11-26,2026-06-17,Yes,Data mismatch
+C0798,XYZ Enterprises,Telecom,Canada,3768866.0,1438,69.0,71732.0,NO,84486,2018-09-01,2025-05-23,Yes,Good client
+C0780,Prime Ltd,Technology,USA,2100609.0,753,90.0,27601.0,YES,53027,2023-03-03,2026-04-06,Y,Frequent small claims
+C0315,Allied Pvt,Healthcare,Canada,545101.0,3895,32.0,130438.0,No,49393,2021-11-17,2025-06-29,Y,Clean history
+C0727,NextGen Enterprises,Financial Institutions,UK,5555770.0,1108,19.0,150051.0,NO,79768,2021-07-11,2026-04-14,Yes,Needs review
+C0381,Allied Enterprises,Telecom,Canada,1523286.0,1754,64.0,188399.0,YES,78581,2020-11-18,2026-05-01,Y,Policy renewal pending
+C0659,Prime Solutions,Retail,Australia,2815514.0,989,86.0,162495.0,NO,41258,2023-10-13,2026-09-25,Y,Policy renewal pending
+C0693,ABC Pvt,Energy,Germany,2791276.0,3828,8.0,,NO,44386,2020-04-19,2026-10-10,Y,Late claims
+C0093,XYZ Corp,Energy,Canada,2209818.0,2156,31.0,69200.0,Y,81486,2024-10-29,2025-08-04,Y,Frequent small claims
+C0923,Allied Ltd,Retail,Singapore,2344702.0,4408,50.0,100742.0,No,14031,2019-09-16,2026-10-25,N,Late claims
+C0582,NextGen Corp,Financial Institutions,Singapore,5218922.0,257,21.0,175851.0,No,6859,2021-05-15,2026-02-19,No,Policy renewal pending
+C0702,Allied Ltd,Energy,USA,,625,47.0,52118.0,Yes,71196,2019-06-01,2025-09-14,Y,Policy renewal pending
+C0888,Global Enterprises,Healthcare,Germany,5445854.0,4666,61.0,166980.0,No,19583,2022-06-06,2025-03-17,No,Policy renewal pending
+C0064,XYZ Ltd,Manufacturing,USA,3147262.0,993,33.0,158262.0,No,37327,2020-01-29,2026-01-26,Y,Data mismatch
+C0630,Prime Solutions,Energy,UK,9871802.0,1437,5.0,57870.0,YES,66629,2018-11-17,2026-11-18,Y,Frequent small claims
+C0600,NextGen Enterprises,Manufacturing,Canada,4110912.0,3477,85.0,81240.0,Y,51877,2023-05-31,2026-10-24,N,Data mismatch
+C0650,ABC Ltd,Technology,Singapore,5658956.0,579,63.0,38870.0,Yes,81159,2022-12-01,2026-07-28,Yes,Needs review
+C0140,Allied Enterprises,Telecom,UK,1301482.0,4275,36.0,183847.0,No,61842,2018-05-10,2026-06-25,No,Frequent small claims
+C0257,XYZ Ltd,Technology,Australia,8083441.0,1854,58.0,175047.0,N,89160,2019-07-06,2025-03-12,N,Policy renewal pending
+C0936,Secure Pvt,Manufacturing,Singapore,,4181,35.0,35106.0,Y,59174,2021-01-20,2026-10-31,No,Clean history
+C0332,NextGen Corp,Manufacturing,,5591590.0,942,23.0,29045.0,YES,32828,2018-10-06,2025-08-28,No,Late claims
+C0117,Global Corp,Financial Institutions,UK,7987739.0,2225,31.0,55583.0,YES,28230,2020-02-22,2025-01-22,No,Needs review
+C0571,Prime Ltd,Retail,Australia,2473139.0,602,7.0,191932.0,Y,51727,2022-04-17,2026-04-30,N,Frequent small claims
+C0427,Prime Pvt,Energy,Singapore,4485536.0,1937,60.0,,Yes,93500,2023-05-01,2025-09-27,Y,Frequent small claims
+C0984,Global Enterprises,Energy,Singapore,1681530.0,2612,6.0,18689.0,N,49500,2021-02-15,2026-01-28,No,Clean history
+C0070,Prime Solutions,Technology,Germany,4874183.0,3745,54.0,,YES,59722,2022-10-09,2026-07-13,No,Clean history
+C0783,Allied Pvt,Healthcare,India,9351130.0,4833,85.0,172849.0,No,22439,,2026-10-24,Yes,Good client
+C0546,XYZ Enterprises,Retail,,3419144.0,985,35.0,39773.0,NO,63972,2018-08-16,2025-04-29,N,Frequent small claims
+C0138,NextGen Ltd,Healthcare,UK,8406461.0,2731,93.0,87279.0,YES,68136,2022-01-11,2026-02-26,No,Late claims
+C0649,Allied Ltd,Financial Institutions,India,4077266.0,3764,64.0,57428.0,NO,97537,2018-02-06,2025-11-13,Y,Needs review
+C0718,Global Ltd,Manufacturing,Canada,4250276.0,1006,33.0,48527.0,Y,22164,2024-09-17,2026-05-05,Y,Data mismatch
+C0804,XYZ Ltd,Telecom,India,9029285.0,2822,33.0,161314.0,N,59546,2019-04-19,2026-04-26,Yes,Clean history
+C0490,NextGen Solutions,Telecom,Australia,3721581.0,1859,90.0,,No,96371,2021-12-28,2025-08-23,N,Data mismatch
+C0119,XYZ Pvt,Technology,UK,5392895.0,2139,79.0,12461.0,N,45833,2018-06-01,2026-01-29,Y,Clean history
+C0701,XYZ Corp,Retail,Singapore,8101482.0,2410,9.0,180841.0,NO,75324,,2026-11-17,Yes,Data mismatch
+C0358,Allied Ltd,Healthcare,Singapore,8949851.0,86,37.0,,Y,76240,2018-08-26,2025-09-10,No,Policy renewal pending
+C0907,Global Corp,Technology,Canada,3277993.0,1299,68.0,54976.0,Yes,28018,2019-09-01,2026-03-26,Yes,Data mismatch
+C0820,Prime Solutions,Technology,Singapore,8140979.0,1011,63.0,156385.0,Y,31085,2021-10-04,2026-10-31,N,Good client
+C0211,Prime Pvt,Healthcare,Canada,1010681.0,4856,60.0,81449.0,Y,10451,2023-11-30,2026-10-10,Yes,Good client
+C0987,XYZ Corp,Energy,India,8469066.0,4493,82.0,106968.0,Y,19800,2022-10-13,2026-08-26,Y,Frequent small claims
+C0976,Prime Pvt,Technology,Australia,6404680.0,2543,88.0,127049.0,NO,11874,2019-09-30,2026-02-02,N,Clean history
+C0204,NextGen Solutions,,India,2248815.0,3776,2.0,178333.0,Yes,29943,2019-04-22,2026-12-16,Y,Clean history
+C0318,XYZ Pvt,Financial Institutions,UK,7713269.0,776,21.0,87035.0,NO,35436,2021-01-27,2025-12-26,N,Needs review
+C0524,Secure Pvt,Healthcare,Australia,9826290.0,323,24.0,,Y,48008,2022-01-08,2025-11-04,N,Late claims
+C0088,NextGen Enterprises,Financial Institutions,UK,2330919.0,2951,12.0,170682.0,N,7846,2020-10-07,2025-11-29,N,Needs review
+C0538,Secure Enterprises,Technology,,7927494.0,3812,36.0,116715.0,No,68975,2018-12-03,2025-04-01,No,Frequent small claims
+C0060,Global Solutions,,India,,4597,25.0,188965.0,Y,86610,2021-05-18,2025-06-12,Y,Data mismatch
+C0896,Prime Ltd,Technology,USA,1053959.0,1366,52.0,152745.0,No,19520,2024-03-07,2025-01-12,Y,Clean history
+C0607,NextGen Pvt,Healthcare,UK,3411149.0,2385,71.0,76354.0,YES,88031,2023-01-07,2025-04-30,No,Clean history
+C0330,ABC Corp,Financial Institutions,Canada,9981393.0,4119,46.0,126668.0,No,3606,2023-05-31,2026-05-05,Yes,Good client
+C0839,ABC Enterprises,Healthcare,USA,3857974.0,2595,9.0,14256.0,No,2775,2019-08-19,2025-05-12,No,Needs review
+C0611,Secure Pvt,Healthcare,India,,711,24.0,166188.0,No,66458,2021-02-04,2026-08-29,Yes,Frequent small claims
+C0127,NextGen Ltd,Technology,Singapore,7164746.0,695,28.0,67493.0,Y,88229,2020-11-09,2025-12-04,Yes,Good client
+C0903,ABC Solutions,Energy,,5375034.0,4726,78.0,173798.0,NO,41185,2022-01-07,2025-08-06,Yes,Data mismatch
+C0196,Secure Enterprises,Retail,Germany,1761909.0,265,21.0,30372.0,NO,50516,2024-02-02,2026-05-22,No,Needs review
+C0266,Secure Ltd,Energy,USA,1807923.0,4893,96.0,49789.0,YES,91829,2022-02-28,2025-03-24,Y,Good client
+C0565,NextGen Corp,,Germany,2325300.0,684,57.0,79083.0,No,26069,2023-11-26,2025-01-13,No,Needs review
+C0776,XYZ Ltd,Telecom,Australia,6582532.0,2458,30.0,191460.0,NO,19404,2020-10-13,2026-10-30,Yes,Policy renewal pending
+C0900,Global Pvt,Energy,UK,4637358.0,195,,12415.0,Yes,73193,2018-11-23,2026-02-13,N,Clean history
+C0616,NextGen Solutions,,UK,3564442.0,3021,58.0,153980.0,YES,43395,2020-09-25,2026-10-14,Y,Clean history
+C0846,Prime Ltd,Energy,Singapore,3254240.0,1888,91.0,199115.0,N,26616,,2026-01-16,No,Data mismatch
+C0223,NextGen Pvt,,,8863313.0,876,60.0,87302.0,N,21869,2018-04-03,2026-04-05,Yes,Good client
+C0719,Global Enterprises,Telecom,India,5823601.0,1989,92.0,82227.0,NO,35595,2021-05-09,2025-05-20,Yes,Data mismatch
+C0481,Global Enterprises,Energy,India,6806024.0,4013,20.0,37402.0,Yes,77535,2024-10-09,2025-05-16,Y,Data mismatch
+C0446,Secure Solutions,Technology,Canada,3076242.0,2557,19.0,51101.0,Y,32130,2018-01-03,2025-01-21,Y,Data mismatch
+C0418,XYZ Corp,Technology,Germany,3602630.0,4731,26.0,72904.0,YES,43937,2019-09-20,2025-02-24,Yes,Needs review
+C0182,ABC Ltd,Manufacturing,USA,5774719.0,1508,21.0,162489.0,No,76872,,2025-12-14,Y,Frequent small claims
+C0491,Prime Enterprises,Healthcare,Germany,4346238.0,2305,16.0,125779.0,NO,11064,2022-08-23,2025-08-05,N,Clean history
+C0237,Prime Solutions,Telecom,Singapore,6771458.0,180,43.0,149355.0,Yes,91785,2018-09-04,2025-07-07,Y,Good client
+C0433,Allied Corp,Energy,Germany,821747.0,935,4.0,126929.0,N,58692,2021-08-03,2025-06-03,No,Needs review
+C0637,Prime Corp,Technology,India,4997590.0,2675,16.0,32606.0,YES,35959,2024-10-13,2025-11-13,Yes,Data mismatch
+C0566,Secure Pvt,,Germany,,1975,21.0,65948.0,Y,56233,2023-11-15,2026-02-12,No,Policy renewal pending
+C0878,Allied Pvt,Healthcare,UK,,4007,45.0,167627.0,NO,89462,2020-11-23,2025-06-03,No,Clean history
+C0178,Global Pvt,,UK,3882875.0,3619,99.0,12597.0,No,82736,2024-08-27,2025-12-16,Y,Needs review
+C0486,XYZ Corp,Financial Institutions,USA,3364908.0,1905,47.0,118550.0,No,55480,2020-09-19,2026-04-01,No,Clean history
+C0916,NextGen Pvt,Telecom,USA,9928366.0,699,62.0,193799.0,NO,43856,2019-10-30,2025-07-21,Y,Needs review
+C0777,Global Ltd,Retail,USA,5296467.0,3723,,163763.0,NO,25380,2018-05-25,2026-03-17,Y,Policy renewal pending
+C0069,Secure Enterprises,Telecom,USA,1107293.0,4292,80.0,8744.0,Yes,19581,2019-12-24,2026-08-22,N,Data mismatch
+C0007,XYZ Pvt,Retail,Singapore,9728519.0,1774,23.0,142868.0,N,75225,2018-02-24,2025-07-14,No,Data mismatch
+C0753,XYZ Enterprises,Telecom,Singapore,3808654.0,1414,26.0,164073.0,Y,18062,2021-06-13,2025-12-15,Yes,Needs review
+C0894,XYZ Solutions,,UK,2608749.0,1122,64.0,89995.0,N,46525,2024-05-30,2026-06-10,No,Data mismatch
+C0118,NextGen Pvt,Healthcare,Australia,869598.0,3974,56.0,43392.0,N,59778,2021-06-16,2026-04-29,Yes,Needs review
+C0636,Allied Pvt,Manufacturing,USA,7349903.0,3861,98.0,9426.0,Y,19259,2023-09-26,2026-11-09,Yes,Needs review
+C0584,Global Pvt,Retail,,5222783.0,3511,26.0,29472.0,N,43307,2024-06-04,2026-06-22,Y,Clean history
+C0156,Allied Solutions,Energy,,2054109.0,1383,2.0,7011.0,YES,18689,2020-05-14,2026-09-14,Yes,Frequent small claims
+C0051,NextGen Enterprises,Technology,Australia,2405413.0,3360,66.0,196420.0,No,64887,2018-02-19,2026-12-22,Yes,Frequent small claims
+C0499,NextGen Corp,Technology,India,2417336.0,1100,70.0,132881.0,Y,2382,2023-05-25,2026-09-24,No,Late claims
+C0608,NextGen Solutions,Technology,Germany,8611010.0,356,86.0,56374.0,Y,37019,2018-06-28,2026-08-02,Yes,Late claims
+C0341,XYZ Ltd,Retail,Australia,3277825.0,1690,13.0,123325.0,Yes,62061,2020-07-01,2026-10-18,No,Clean history
+C0869,Secure Solutions,Telecom,Germany,9972232.0,4495,48.0,52857.0,NO,38225,2018-03-23,2026-01-03,Yes,Data mismatch
+C0019,Global Pvt,Retail,USA,9884633.0,2767,26.0,22087.0,Y,4173,2019-01-05,2026-10-28,N,Needs review
+C0071,Secure Enterprises,Technology,Germany,3466612.0,3502,52.0,153049.0,Y,92036,2018-02-16,2025-10-13,Yes,Late claims
+C0911,XYZ Corp,Telecom,Singapore,9712128.0,3553,86.0,197312.0,YES,87438,2019-11-09,2025-10-26,Y,Data mismatch
+C0995,ABC Corp,Technology,USA,3464695.0,4087,83.0,47291.0,Y,11669,2023-09-23,2026-10-17,Yes,Needs review
+C0003,ABC Ltd,Energy,,4404572.0,738,98.0,88375.0,Yes,92268,2018-08-22,2026-08-08,Y,Frequent small claims
+C0261,Prime Enterprises,Financial Institutions,,7028040.0,4174,96.0,6708.0,Yes,8024,2020-11-09,2025-03-16,Y,Good client
+C0402,Prime Ltd,Telecom,Canada,9029860.0,638,34.0,94833.0,Yes,3453,2021-06-30,2025-07-04,Yes,Good client
+C0073,Global Ltd,Energy,Australia,5367180.0,1358,99.0,15651.0,Yes,16523,2021-01-16,2026-08-24,No,Needs review
+C0610,XYZ Solutions,Manufacturing,Germany,2596081.0,2039,81.0,129577.0,Yes,65133,2019-03-31,2025-11-12,N,Policy renewal pending
+C0827,ABC Pvt,Energy,Australia,9539101.0,1997,15.0,71641.0,Yes,32093,2021-10-26,2026-11-10,Y,Data mismatch
+C0137,NextGen Enterprises,Energy,Australia,1675557.0,4847,52.0,,NO,81882,2020-01-29,2026-04-11,N,Data mismatch
+C0970,Allied Corp,Financial Institutions,India,1815630.0,2384,22.0,178784.0,Y,72391,2022-09-08,2026-01-31,Yes,Frequent small claims
+C0729,Global Pvt,Manufacturing,India,3006158.0,2582,9.0,,YES,14026,2022-02-18,2025-05-20,Yes,Data mismatch
+C0360,XYZ Corp,,India,8740059.0,1761,97.0,173048.0,No,16322,2018-08-23,2025-02-18,Y,Data mismatch
+C0415,XYZ Ltd,Technology,Germany,864121.0,1057,10.0,106084.0,Yes,5618,2022-07-10,2026-07-20,N,Good client
+C0480,Secure Corp,Technology,Canada,2834296.0,4715,,24008.0,NO,41153,2024-09-24,2026-10-21,N,Clean history
+C0652,Secure Ltd,Manufacturing,UK,943523.0,3008,64.0,54067.0,YES,50357,2021-06-14,2025-01-05,Y,Late claims
+C0089,Global Solutions,Technology,UK,7040119.0,1437,32.0,146130.0,Y,90563,2022-11-23,2026-04-22,Y,Frequent small claims
+C0442,Prime Pvt,Retail,USA,1186880.0,4861,,152309.0,N,12816,2024-11-05,2025-07-29,Y,Good client
+C0788,NextGen Enterprises,Technology,Singapore,1044789.0,1397,51.0,154673.0,No,5021,2020-02-14,2026-10-28,Y,Frequent small claims
+C0615,XYZ Corp,Retail,Australia,7236029.0,1132,28.0,35431.0,No,99534,2023-12-29,2025-05-16,N,Policy renewal pending
+C0012,Prime Solutions,Manufacturing,Singapore,1866891.0,1039,73.0,63557.0,No,73155,2023-05-06,2026-03-28,Yes,Needs review
+C0349,Secure Corp,Technology,Singapore,,1610,50.0,148016.0,Yes,136,2020-06-20,2026-06-11,Y,Late claims
+C0768,NextGen Corp,Telecom,Germany,1755016.0,4733,73.0,192818.0,Y,34087,2022-05-11,2025-05-26,No,Frequent small claims
+C0867,NextGen Solutions,Telecom,India,8625631.0,2187,87.0,144347.0,YES,60931,2024-01-31,2025-01-29,Yes,Frequent small claims
+C0498,Global Corp,Financial Institutions,UK,3872811.0,640,94.0,28478.0,N,90101,2021-08-20,2026-10-15,Y,Policy renewal pending
+C0174,NextGen Pvt,,Australia,7533296.0,988,45.0,47359.0,N,62912,2023-07-10,2026-04-11,No,Needs review
+C0570,Global Pvt,,Australia,523570.0,1489,91.0,146365.0,Y,32821,2022-09-29,2026-06-05,Y,Good client
+C0431,NextGen Ltd,Telecom,UK,7806358.0,1090,17.0,143262.0,No,71696,2019-06-29,2026-10-25,Y,Late claims
+C0631,Allied Pvt,Manufacturing,Singapore,4445760.0,3503,2.0,192619.0,No,80764,2020-11-02,2026-04-14,N,Late claims
+C0216,Global Solutions,Energy,Germany,171295.0,440,8.0,117169.0,No,43764,2020-10-09,2025-08-15,N,Policy renewal pending
+C0857,ABC Ltd,Telecom,Canada,9842257.0,422,,104003.0,NO,55863,2023-08-02,2026-12-05,Y,Policy renewal pending
+C0712,Global Corp,Telecom,USA,2010705.0,2253,7.0,72468.0,YES,87959,2023-07-23,2026-12-22,No,Frequent small claims
+C0451,Allied Pvt,Healthcare,Australia,8372841.0,3044,49.0,61071.0,Yes,47897,2024-08-31,2026-06-29,No,Needs review
+C0594,NextGen Pvt,Telecom,USA,7567048.0,3006,90.0,180936.0,NO,7485,2022-03-16,2025-11-25,Yes,Needs review
+C0096,NextGen Corp,Financial Institutions,Singapore,9567719.0,2818,18.0,182691.0,NO,88278,2022-04-05,2026-11-25,Yes,Data mismatch
+C0833,NextGen Solutions,Telecom,Germany,4576576.0,3072,46.0,160801.0,YES,83014,2020-11-03,2026-09-25,Yes,Good client
+C0502,NextGen Solutions,Technology,Germany,3888340.0,1009,19.0,,Y,45276,2018-04-01,2025-08-16,Yes,Needs review
+C0144,Global Enterprises,Retail,Australia,3660920.0,2916,63.0,133379.0,NO,30109,2018-05-14,2026-02-27,Yes,Late claims
+C0738,XYZ Corp,Retail,,6260686.0,1289,13.0,10451.0,No,47574,2024-09-03,2026-09-11,No,Policy renewal pending
+C0195,Allied Pvt,Energy,Canada,3180389.0,3713,42.0,23800.0,N,7674,2020-04-16,2026-05-18,Yes,Needs review
+C0925,Prime Ltd,Technology,Australia,5835193.0,3956,21.0,65142.0,Yes,65982,2023-09-20,2026-10-26,Y,Clean history
+C0279,Prime Ltd,Manufacturing,India,6205525.0,3810,68.0,,N,93809,2019-10-01,2026-09-14,No,Late claims
+C0417,Prime Enterprises,Telecom,Germany,9658356.0,3576,99.0,33454.0,Yes,1920,2023-07-20,2026-04-03,Yes,Clean history
+C0167,Allied Corp,Energy,Singapore,3460011.0,531,65.0,96575.0,No,2994,2021-02-11,2026-10-26,Y,Late claims
+C0275,NextGen Enterprises,Technology,,2083509.0,3480,50.0,165761.0,No,70843,2020-06-18,2026-06-12,Yes,Frequent small claims
+C0967,Secure Enterprises,Financial Institutions,,3678226.0,3933,92.0,147180.0,Yes,99023,2022-09-22,2026-11-19,No,Policy renewal pending
+C0359,Global Enterprises,Telecom,Canada,2085588.0,3437,61.0,89761.0,No,90063,2022-11-10,2026-04-29,N,Policy renewal pending
+C0676,Global Corp,Manufacturing,UK,5075026.0,3864,44.0,123452.0,No,70130,2022-10-19,2026-09-22,No,Late claims
+C0252,Secure Solutions,Energy,USA,5206799.0,3291,,85388.0,Yes,96007,2023-01-27,2026-11-06,Y,Needs review
+C0697,XYZ Solutions,Energy,India,8107407.0,2043,36.0,118000.0,Y,93308,2020-04-28,2025-10-31,N,Good client
+C0011,ABC Ltd,Manufacturing,Germany,5081505.0,3262,91.0,153781.0,No,33919,2021-04-18,2026-04-10,N,Good client
+C0153,Secure Corp,Manufacturing,Singapore,5922184.0,236,86.0,122961.0,Y,36963,2022-04-15,2026-03-24,Y,Late claims
+C0885,Prime Corp,Manufacturing,Singapore,2662469.0,1293,14.0,114850.0,N,45541,2020-08-20,2025-11-13,Yes,Needs review
+C0703,NextGen Pvt,Retail,Germany,1172647.0,1357,15.0,89703.0,Y,70014,2024-04-03,2026-04-28,N,Clean history
+C0505,ABC Ltd,,Singapore,887494.0,4523,,20372.0,NO,26946,2021-05-25,2026-02-02,N,Frequent small claims
+C0426,Allied Solutions,Healthcare,USA,4566271.0,327,4.0,116668.0,N,70463,2021-06-06,2026-06-25,No,Data mismatch
+C0953,ABC Corp,Energy,Australia,,116,19.0,139345.0,Y,83494,2022-11-29,2026-12-04,Yes,Frequent small claims
+C0849,Prime Pvt,Healthcare,USA,8212074.0,4196,91.0,132626.0,NO,54567,2023-01-08,2025-02-03,Y,Data mismatch
+C0114,Global Enterprises,Technology,,7658158.0,3848,2.0,79964.0,Yes,1988,2020-12-13,2026-01-10,Y,Data mismatch
+C0761,Prime Enterprises,Telecom,India,6392518.0,3923,6.0,,No,44435,2019-06-02,2026-01-13,Y,Frequent small claims
+C0365,Global Solutions,Manufacturing,Singapore,9460133.0,3161,,71624.0,Y,93422,2024-02-06,2026-06-30,N,Frequent small claims
+C0254,Global Ltd,Energy,Canada,5062140.0,2511,7.0,40428.0,YES,90605,2019-07-11,2026-01-12,N,Frequent small claims
+C0704,ABC Solutions,Retail,Australia,1731107.0,3242,48.0,157697.0,Y,8210,2020-10-26,2025-03-30,Yes,Needs review
+C0399,ABC Ltd,Telecom,Australia,7574447.0,2179,81.0,,NO,49298,2022-08-23,2025-09-27,No,Clean history
+C0331,Global Solutions,Manufacturing,Germany,,4926,7.0,161590.0,No,57620,2019-02-02,2025-07-20,No,Needs review
+C0478,Global Enterprises,Technology,Australia,3841196.0,4229,17.0,177699.0,Yes,43442,2024-10-01,2025-10-26,N,Policy renewal pending
+C0221,Prime Pvt,Energy,USA,3712600.0,2980,,5340.0,Yes,60128,2021-09-28,2025-06-21,N,Data mismatch
+C0259,XYZ Corp,Financial Institutions,,2200021.0,3860,5.0,160914.0,Y,29061,2023-03-07,2025-02-06,Yes,Policy renewal pending
+C0805,Allied Solutions,Financial Institutions,USA,7743603.0,3776,84.0,60841.0,Y,88151,2024-11-06,2026-04-20,N,Data mismatch
+C0163,Allied Corp,,Australia,6509907.0,800,87.0,144839.0,Yes,55561,2019-06-26,2025-03-31,No,Good client
+C0345,Global Enterprises,Healthcare,UK,,1405,,82949.0,N,84774,2021-06-12,2026-10-28,Y,Needs review
+C0091,Secure Solutions,,Canada,4880450.0,2811,92.0,75194.0,Yes,46163,2021-09-30,2025-03-25,No,Data mismatch
+C0962,ABC Pvt,Technology,,6675716.0,3924,29.0,32128.0,No,54722,2023-10-11,2026-09-24,Y,Frequent small claims
+C0207,Secure Solutions,Energy,USA,7573915.0,538,29.0,139308.0,NO,4138,2021-12-28,2025-04-13,Y,Clean history
+C0807,Secure Corp,Healthcare,Australia,,4139,34.0,112096.0,NO,29768,2022-05-29,2026-06-23,Yes,Needs review
+C0901,XYZ Solutions,Telecom,Australia,9596563.0,3090,99.0,179956.0,Y,30134,2022-10-19,2026-03-31,No,Data mismatch
+C0728,Prime Pvt,Healthcare,Germany,1172200.0,4343,32.0,33328.0,Yes,25613,2018-03-24,2026-06-11,Y,Frequent small claims
+C0130,NextGen Ltd,Healthcare,Canada,5293542.0,659,80.0,178921.0,N,97718,2020-06-04,2026-09-09,N,Needs review
+C0449,Secure Ltd,Energy,Canada,3863024.0,3154,60.0,192450.0,Y,30698,2018-03-31,2026-05-15,No,Good client
+C0605,NextGen Corp,Manufacturing,,6226319.0,2406,50.0,180796.0,N,31709,2024-02-13,2025-03-08,N,Policy renewal pending
+C0549,Prime Pvt,Energy,Singapore,5844588.0,2898,,81396.0,N,19996,2021-05-20,2026-02-18,No,Frequent small claims
+C0679,NextGen Ltd,Energy,Australia,2553752.0,2988,,190326.0,N,14334,2021-10-23,2025-04-15,N,Good client
+C0619,XYZ Corp,Telecom,India,4819607.0,4590,39.0,60350.0,YES,37701,2019-01-12,2025-08-29,N,Clean history
+C0319,Secure Ltd,Financial Institutions,Australia,1205534.0,2786,99.0,13016.0,NO,47406,2021-02-24,2025-08-09,Yes,Late claims
+C0109,Allied Ltd,Healthcare,India,7014550.0,2101,5.0,170696.0,N,16901,2023-05-18,2026-01-30,Yes,Good client
+C0917,Prime Ltd,Telecom,Canada,1905468.0,1018,48.0,43578.0,Y,86055,2023-09-02,2025-04-26,Yes,Data mismatch
+C0927,XYZ Ltd,Manufacturing,India,5997498.0,4058,48.0,158484.0,Yes,17618,2020-11-05,2026-10-09,Y,Good client
+C0323,Global Enterprises,Healthcare,Singapore,8173461.0,1964,12.0,107239.0,YES,12356,2021-01-08,2025-08-07,Y,Frequent small claims
+C0506,NextGen Enterprises,Energy,Singapore,5951244.0,2996,26.0,34796.0,N,79698,2018-07-18,2025-01-07,No,Good client
+C0264,Allied Enterprises,Telecom,Singapore,7428141.0,4463,10.0,81021.0,N,43803,2021-11-05,2025-09-26,N,Frequent small claims
+C0380,Global Corp,Retail,Australia,8067801.0,2189,96.0,151110.0,No,70293,2019-11-03,2026-06-12,Yes,Clean history
+C0920,XYZ Enterprises,Retail,USA,,490,35.0,80715.0,No,28378,2018-11-11,2026-08-31,No,Policy renewal pending
+C0748,Prime Enterprises,Technology,Singapore,,2019,97.0,166945.0,Yes,75602,2020-09-06,2026-08-10,N,Policy renewal pending
+C0043,Prime Corp,Manufacturing,India,2845683.0,1873,80.0,57781.0,Yes,4986,2019-01-02,2025-07-17,N,Frequent small claims
+C0086,NextGen Ltd,Financial Institutions,USA,6656168.0,1329,45.0,119889.0,YES,77789,2018-01-18,2025-06-17,N,Frequent small claims
+C0299,Global Pvt,Retail,Australia,7878484.0,856,10.0,73344.0,Yes,31707,2023-03-05,2025-01-07,Y,Needs review
+C0467,Secure Pvt,Energy,UK,9179703.0,3251,55.0,55961.0,No,4434,2023-11-15,2025-09-28,N,Clean history
+C0210,Global Solutions,Telecom,India,4235314.0,4923,58.0,138004.0,YES,4017,2018-12-30,2025-08-20,Yes,Frequent small claims
+C0889,ABC Solutions,Retail,Singapore,7590200.0,59,36.0,20523.0,Yes,22765,2024-01-30,2026-08-30,No,Needs review
+C0835,Global Corp,Manufacturing,Canada,2963793.0,2880,100.0,35099.0,YES,25338,2020-02-18,2026-09-07,Y,Good client
+C0824,Allied Pvt,Healthcare,UK,5447417.0,3915,25.0,50740.0,YES,78768,2021-05-20,2025-04-13,Y,Late claims
+C0711,NextGen Ltd,Financial Institutions,Singapore,2050367.0,1629,2.0,48309.0,No,11094,2023-02-13,2026-04-11,Y,Good client
+C0187,Prime Pvt,Telecom,India,1661729.0,3165,34.0,138241.0,Y,30981,2020-09-29,2025-12-20,No,Frequent small claims
+C0243,Secure Pvt,Manufacturing,UK,,3637,17.0,62169.0,Yes,7610,2024-05-27,2026-09-14,Y,Frequent small claims
+C0248,XYZ Ltd,Telecom,USA,601157.0,1181,31.0,82988.0,NO,97088,2021-02-04,2025-04-12,No,Policy renewal pending
+C0985,Allied Ltd,Technology,India,2187258.0,1729,86.0,169006.0,No,12100,2023-02-10,2025-01-29,N,Policy renewal pending
+C0044,Allied Solutions,Telecom,Australia,4156518.0,3512,7.0,188852.0,Y,32298,2023-02-26,2025-02-23,Yes,Late claims
+C0745,XYZ Pvt,Retail,Singapore,167661.0,968,69.0,128749.0,Yes,29877,2021-06-23,2026-09-07,Y,Frequent small claims
+C0684,XYZ Ltd,Telecom,Singapore,4757693.0,1302,89.0,28091.0,N,43469,2020-10-25,2026-11-05,No,Late claims
+C0696,NextGen Solutions,Manufacturing,USA,6649546.0,2689,41.0,10939.0,Yes,98132,2021-12-19,2025-07-28,No,Frequent small claims
+C0750,ABC Pvt,Telecom,Australia,1407506.0,941,25.0,194699.0,No,64575,2021-11-10,2025-07-14,Y,Clean history
+C0914,ABC Enterprises,Healthcare,India,5791276.0,1037,16.0,189531.0,Y,58870,2023-01-09,2025-07-20,No,Clean history
+C0488,XYZ Ltd,Technology,UK,6586460.0,842,75.0,96218.0,No,76067,2023-08-14,2025-12-25,N,Good client
+C0662,Allied Enterprises,Healthcare,Canada,7202173.0,424,79.0,191907.0,NO,74842,2020-07-04,2025-09-02,No,Late claims
+C0822,Allied Ltd,Retail,UK,6781134.0,3898,4.0,135064.0,NO,14715,2022-03-29,2026-03-11,N,Data mismatch
+C0324,ABC Pvt,Technology,Canada,,2516,47.0,116431.0,YES,98499,2023-10-13,2025-06-17,N,Policy renewal pending
+C0802,NextGen Ltd,Manufacturing,UK,8302787.0,504,91.0,45695.0,YES,66798,2019-06-26,2026-07-28,No,Good client
+C0585,Secure Ltd,Telecom,Canada,5628983.0,3435,14.0,187885.0,N,21839,2024-05-14,2026-11-27,N,Clean history
+C0597,Secure Ltd,Manufacturing,UK,597562.0,2219,49.0,24611.0,NO,28453,2019-05-27,2025-07-02,No,Policy renewal pending
+C0005,Secure Corp,,India,9624682.0,3751,36.0,199387.0,Y,53312,2022-07-30,2025-09-11,Yes,Data mismatch
+C0397,Allied Solutions,Manufacturing,India,4481932.0,1624,54.0,27031.0,Y,47861,2024-10-18,2025-01-17,Y,Clean history
+C0602,XYZ Solutions,Manufacturing,Canada,5662067.0,1977,61.0,60243.0,NO,93405,2024-12-13,2026-06-03,Y,Needs review
+C0188,Allied Ltd,Telecom,Australia,5131595.0,4140,52.0,158124.0,NO,73903,2020-03-08,2026-04-25,N,Policy renewal pending
+C0829,Allied Corp,Energy,Germany,,4810,,188232.0,NO,87954,2018-07-24,2025-06-10,No,Data mismatch
+C0126,Allied Ltd,Energy,UK,3444014.0,2124,73.0,197121.0,YES,76361,2018-05-14,2025-01-18,Yes,Clean history
+C0642,ABC Solutions,Energy,UK,3296340.0,4440,88.0,181743.0,No,44535,2018-03-22,2025-07-21,No,Frequent small claims
+C0922,Allied Pvt,Healthcare,UK,2180154.0,1393,64.0,156538.0,Yes,49996,2019-08-10,2026-11-06,N,Needs review
+C0171,Allied Corp,Telecom,UK,5825570.0,2393,85.0,,Y,84381,2020-06-08,2026-09-14,Yes,Good client
+C0516,ABC Ltd,Healthcare,USA,9014438.0,166,5.0,110426.0,N,93305,2021-02-05,2026-12-01,No,Frequent small claims
+C0575,XYZ Ltd,,India,8541136.0,3439,32.0,198069.0,No,38712,2024-11-26,2025-02-25,Y,Clean history
+C0010,Secure Ltd,Telecom,USA,7504852.0,1809,2.0,48056.0,Y,50719,2023-08-10,2026-05-24,Y,Policy renewal pending
+C0145,Allied Corp,Telecom,Singapore,6960006.0,4838,62.0,181806.0,N,19233,2023-05-24,2025-05-20,Y,Data mismatch
+C0683,Global Corp,Healthcare,Canada,8739483.0,2163,23.0,37430.0,N,32933,2019-03-09,2026-05-08,No,Good client
+C0115,Prime Enterprises,Energy,USA,,854,11.0,173509.0,NO,14256,2019-06-03,2025-02-17,Yes,Needs review
+C0154,Prime Pvt,Manufacturing,,502690.0,2904,5.0,45379.0,NO,54330,2023-04-20,2025-04-02,Yes,Frequent small claims
+C0523,Allied Corp,Financial Institutions,UK,7003836.0,3910,1.0,158077.0,NO,47664,2019-02-09,2025-07-23,No,Data mismatch
+C0958,ABC Pvt,Telecom,UK,2659272.0,2824,,144784.0,NO,3262,2023-02-02,2025-08-25,No,Clean history
+C0340,Secure Enterprises,Healthcare,Canada,2603771.0,1340,29.0,172746.0,No,91683,2023-11-02,2026-01-23,Y,Frequent small claims
+C0398,Global Corp,,Canada,6765088.0,4048,12.0,85807.0,N,97406,2020-12-04,2026-03-20,Yes,Policy renewal pending
+C0882,Global Pvt,Manufacturing,,8451245.0,1758,73.0,183048.0,Yes,23741,2022-11-14,2025-06-06,Y,Good client
+C0343,Global Solutions,Energy,Singapore,4283839.0,1037,2.0,158385.0,YES,81257,2023-09-10,2026-11-25,No,Policy renewal pending
+C0492,Allied Ltd,Energy,Singapore,6063135.0,3660,69.0,134714.0,N,76848,2020-11-27,2026-12-16,Y,Needs review
+C0537,Allied Ltd,Energy,USA,9237682.0,263,89.0,161044.0,Yes,34660,2024-07-02,2025-03-15,Yes,Good client
+C0006,Allied Solutions,Technology,Canada,,391,97.0,101055.0,YES,12112,2021-06-30,2026-02-02,N,Policy renewal pending
+C0664,ABC Corp,Financial Institutions,,581680.0,4055,,87152.0,No,92617,2019-12-16,2025-12-29,N,Frequent small claims
+C0562,Global Corp,Technology,Singapore,4948287.0,477,56.0,52591.0,NO,66025,2020-04-27,2025-07-07,N,Needs review
+C0092,XYZ Enterprises,Telecom,Germany,7569344.0,2729,13.0,81917.0,Y,3765,2018-01-17,2025-10-29,N,Policy renewal pending
+C0667,XYZ Ltd,Healthcare,Canada,5387118.0,2415,40.0,,Y,23386,2024-10-24,2025-02-03,No,Frequent small claims
+C0311,XYZ Solutions,Manufacturing,Germany,788105.0,2315,30.0,188043.0,Y,5103,2023-10-20,2026-02-28,Yes,Frequent small claims
+C0100,Prime Solutions,Energy,Australia,3847389.0,2623,6.0,67068.0,Yes,55633,2023-02-20,2026-12-28,Y,Needs review
+C0770,Prime Corp,Financial Institutions,Germany,9412483.0,1913,88.0,,No,4627,2023-08-18,2026-07-16,N,Clean history
+C0766,Prime Solutions,Energy,India,5742264.0,352,66.0,,Yes,72762,2018-07-07,2025-09-29,Y,Frequent small claims
+C0412,XYZ Enterprises,Healthcare,India,2388627.0,4845,4.0,128853.0,YES,8640,2020-07-15,2026-09-21,No,Late claims
+C0706,XYZ Corp,Telecom,UK,5206563.0,2784,42.0,32076.0,N,36289,2024-07-30,2025-05-31,No,Late claims
+C0521,NextGen Solutions,Retail,Australia,5562810.0,2818,39.0,50968.0,YES,9277,2019-01-29,2025-11-23,Y,Clean history
+C0291,ABC Solutions,Manufacturing,Singapore,5809840.0,1013,53.0,164136.0,No,88835,2020-06-06,2026-01-16,Yes,Frequent small claims
+C0544,Global Ltd,Financial Institutions,India,6842471.0,2770,92.0,123581.0,Yes,20176,2020-02-23,2026-05-10,Y,Needs review
+C0496,XYZ Ltd,Financial Institutions,India,8090340.0,3430,3.0,97122.0,N,6476,2019-06-13,2025-01-03,N,Policy renewal pending
+C0392,Secure Solutions,Retail,USA,4162958.0,2858,9.0,46869.0,N,43939,2019-02-05,2025-12-28,N,Policy renewal pending
+C0294,ABC Solutions,Healthcare,UK,9620173.0,1878,16.0,,Y,41094,2019-02-19,2025-09-18,Yes,Data mismatch
+C0929,Global Enterprises,Manufacturing,Australia,8304298.0,4845,67.0,56001.0,Yes,62790,2021-06-30,2025-03-19,Yes,Late claims
+C0816,Global Pvt,,India,344761.0,3618,20.0,,NO,33998,2021-12-21,2026-06-08,N,Policy renewal pending
+C0393,NextGen Solutions,Retail,Australia,1143233.0,4571,36.0,37955.0,NO,29345,2021-06-29,2025-08-26,No,Data mismatch
+C0942,Secure Pvt,,,,3096,8.0,131479.0,NO,67568,2019-07-28,2026-04-26,No,Clean history
+C0574,Prime Solutions,,Australia,2214792.0,1763,82.0,138172.0,N,62522,,2026-05-23,Yes,Late claims
+C0168,Allied Solutions,Technology,USA,7754909.0,203,13.0,100040.0,N,99575,2020-11-30,2025-08-15,N,Clean history
+C0055,Prime Ltd,Telecom,,371836.0,2193,82.0,139393.0,Yes,85988,2019-12-16,2026-08-24,Y,Data mismatch
+C0352,Allied Corp,Energy,USA,4522201.0,1033,23.0,54847.0,N,84514,2021-10-05,2026-07-27,Y,Frequent small claims
+C0897,XYZ Corp,Retail,USA,8005477.0,4195,89.0,127808.0,Yes,85238,2019-05-28,2026-10-11,Y,Needs review
+C0844,Allied Pvt,Healthcare,USA,5600545.0,1064,97.0,162608.0,No,57124,2020-04-14,2025-05-26,Y,Clean history
+C0287,Prime Pvt,Financial Institutions,Australia,7365795.0,481,12.0,111233.0,YES,10751,2023-08-30,2026-05-02,N,Needs review
+C0270,NextGen Pvt,Financial Institutions,Germany,9505634.0,1821,8.0,12684.0,NO,12855,2020-03-16,2026-05-11,No,Frequent small claims
+C0508,ABC Corp,Technology,,9689801.0,3274,93.0,103826.0,YES,22335,2019-10-20,2025-11-27,Y,Data mismatch
+C0983,ABC Ltd,Telecom,USA,3778086.0,3769,38.0,70942.0,Yes,9018,2024-12-21,2025-11-13,Y,Frequent small claims
+C0573,XYZ Corp,Financial Institutions,Canada,9346766.0,3961,15.0,62134.0,NO,16999,2021-09-02,2025-04-05,N,Clean history
+C0655,Secure Pvt,Financial Institutions,Australia,192193.0,3641,21.0,157679.0,YES,35503,2022-10-29,2026-10-13,Y,Needs review
+C0320,NextGen Ltd,Technology,India,9713273.0,3220,32.0,7384.0,No,63059,2018-01-29,2026-12-05,Y,Needs review
+C0715,Global Corp,Financial Institutions,USA,5223122.0,1975,3.0,101258.0,NO,72374,2021-06-26,2026-12-10,Yes,Good client
+C0057,Allied Solutions,Financial Institutions,UK,7381369.0,3241,20.0,173455.0,No,11889,2019-09-25,2026-09-27,Y,Frequent small claims
+C0982,Allied Corp,Healthcare,Australia,4761029.0,1981,,,YES,95408,2018-11-07,2025-12-03,Y,Clean history
+C0625,XYZ Solutions,Financial Institutions,Canada,7568810.0,1006,70.0,51607.0,Yes,16544,2021-10-19,2026-05-23,Y,Clean history
+C0892,Secure Solutions,Financial Institutions,Canada,4733078.0,2681,,24991.0,Y,85103,2021-08-30,2025-03-15,Yes,Policy renewal pending
+C0314,Prime Solutions,Healthcare,USA,1514466.0,2603,44.0,155575.0,N,18452,2022-04-09,2026-04-16,Yes,Data mismatch
+C0353,ABC Enterprises,Retail,Germany,1179600.0,1024,88.0,63653.0,No,56358,2022-08-17,2025-02-17,No,Needs review
+C0408,NextGen Solutions,Retail,UK,8844220.0,1740,70.0,15350.0,NO,84925,2023-09-30,2025-04-24,Yes,Data mismatch
+C0742,Secure Ltd,Financial Institutions,UK,4683897.0,3918,95.0,68761.0,NO,97790,2023-08-31,2026-08-07,Y,Data mismatch
+C0076,XYZ Pvt,Financial Institutions,Germany,2730708.0,1970,25.0,107112.0,NO,10808,2023-08-15,2025-03-09,N,Frequent small claims
+C0403,Prime Ltd,,India,7106454.0,2062,53.0,192771.0,NO,54935,2019-10-02,2026-03-31,N,Data mismatch
+C0690,Prime Solutions,Financial Institutions,Canada,1954971.0,3424,11.0,85360.0,N,36607,2020-07-28,2025-07-11,Yes,Late claims
+C0050,Global Enterprises,Technology,UK,,377,35.0,83279.0,NO,91649,2023-12-31,2026-10-02,No,Good client
+C0797,Global Solutions,,USA,9157014.0,900,17.0,88596.0,N,22250,2018-07-19,2025-06-12,No,Policy renewal pending
+C0366,Prime Pvt,Healthcare,Singapore,3967500.0,1374,29.0,168864.0,No,1700,2019-05-30,2026-09-27,N,Late claims
+C0864,Allied Ltd,Manufacturing,Germany,2969760.0,4147,88.0,138251.0,N,4131,2022-09-24,2025-01-05,N,Policy renewal pending
+C0434,ABC Solutions,Manufacturing,Germany,5492023.0,2802,93.0,94571.0,Yes,61744,2024-11-13,2026-06-12,Y,Clean history
+C0387,Global Ltd,Manufacturing,Singapore,2941992.0,3788,91.0,13605.0,NO,41458,2019-07-18,2026-04-27,N,Good client
+C0981,Global Pvt,Telecom,Canada,8204010.0,4802,72.0,155528.0,No,72779,2024-04-16,2025-05-24,Y,Good client
+C0918,Allied Solutions,Technology,Germany,,2687,30.0,95453.0,N,31379,2021-12-08,2026-02-15,N,Needs review
+C0660,XYZ Ltd,Healthcare,India,2758571.0,575,15.0,79707.0,YES,33724,2018-10-03,2025-08-20,No,Policy renewal pending
+C0149,Allied Ltd,Technology,Germany,5797469.0,198,92.0,175404.0,YES,3849,2020-10-28,2025-09-06,Y,Late claims
+C0811,Global Solutions,Financial Institutions,UK,1130117.0,4036,28.0,33482.0,Yes,82384,2020-09-01,2025-05-13,N,Needs review
+C0193,ABC Corp,Healthcare,Germany,2658231.0,4157,29.0,166475.0,Y,19874,2018-06-24,2026-01-11,N,Policy renewal pending
+C0377,XYZ Pvt,Technology,UK,1746711.0,4361,65.0,156203.0,YES,14955,2021-06-26,2025-03-24,No,Late claims
+C0090,Global Solutions,Manufacturing,Canada,1837095.0,4738,96.0,79637.0,Y,46220,2024-02-16,2026-01-08,Y,Frequent small claims
+C0945,NextGen Enterprises,Energy,Australia,2892427.0,3763,47.0,,No,37842,2024-09-26,2025-05-04,Y,Needs review
+C0681,XYZ Pvt,Technology,Singapore,7365760.0,2090,39.0,79218.0,Yes,62767,2019-07-15,2025-02-24,Y,Clean history
+C0627,NextGen Ltd,Healthcare,Germany,8623838.0,453,65.0,191740.0,N,29063,2018-02-11,2026-05-28,N,Clean history
+C0541,NextGen Solutions,Financial Institutions,Canada,5084445.0,2986,24.0,34320.0,YES,58847,2022-07-13,2025-02-15,Yes,Needs review
+C0371,Secure Corp,Retail,USA,3154390.0,1641,58.0,13068.0,YES,61934,2019-03-06,2025-09-22,N,Data mismatch
+C0054,Allied Pvt,Technology,Canada,5514709.0,3104,35.0,191470.0,No,86328,2024-11-23,2025-07-10,Yes,Good client
+C0586,Prime Pvt,Financial Institutions,UK,260775.0,71,57.0,172093.0,N,27216,2020-02-04,2025-04-23,Yes,Policy renewal pending
+C0760,NextGen Ltd,Financial Institutions,Singapore,2419049.0,1248,50.0,144783.0,N,86669,2020-05-08,2026-05-30,N,Data mismatch
+C0033,ABC Solutions,Retail,Australia,9016786.0,4976,38.0,119598.0,No,10578,,2026-10-03,Y,Data mismatch
+C0255,XYZ Ltd,Technology,Germany,2899487.0,4396,28.0,97021.0,No,82409,2020-10-16,2026-08-05,Yes,Late claims
+C0947,Secure Ltd,,UK,5848035.0,2525,76.0,23375.0,No,80059,2022-08-21,2026-05-01,Yes,Good client
+C0513,ABC Pvt,Healthcare,Germany,2376360.0,1813,21.0,80357.0,No,24123,2020-11-26,2025-07-28,Y,Needs review
+C0226,XYZ Enterprises,Technology,India,8636326.0,3344,45.0,136430.0,N,10442,2021-01-29,2025-12-21,N,Late claims
+C0388,XYZ Pvt,Retail,USA,4394539.0,2519,27.0,105318.0,YES,89037,2020-10-21,2026-09-15,Yes,Policy renewal pending
+C0628,Global Pvt,,Australia,5101045.0,4661,74.0,157035.0,Yes,90880,2018-11-08,2026-04-05,Yes,Late claims
+C0040,Global Enterprises,,,1565689.0,3501,78.0,,NO,58002,2020-08-26,2026-04-29,Yes,Clean history
+C0309,Allied Solutions,Energy,Singapore,6942385.0,4371,89.0,11142.0,NO,31781,2020-04-22,2025-05-09,Y,Data mismatch
+C0049,Prime Corp,Healthcare,Singapore,4255299.0,2540,21.0,49363.0,YES,27798,2021-04-08,2025-06-27,Yes,Policy renewal pending
+C0048,Global Corp,Retail,Canada,1970928.0,2856,15.0,13210.0,Yes,16835,2024-01-15,2025-06-20,Y,Frequent small claims
+C0510,Allied Ltd,Technology,India,5183769.0,3394,37.0,98635.0,Yes,79930,2018-07-19,2025-04-05,No,Frequent small claims
+C0840,Secure Corp,Telecom,UK,8891689.0,2461,99.0,39681.0,YES,97183,2023-10-15,2026-10-20,N,Needs review
+C0082,Prime Enterprises,Manufacturing,Germany,6180526.0,3240,68.0,66350.0,NO,95549,2024-07-25,2026-03-30,Y,Policy renewal pending
+C0999,Secure Ltd,Technology,India,7587345.0,1062,99.0,46520.0,No,2985,2020-05-29,2025-05-01,Yes,Data mismatch
+C0452,Allied Solutions,Energy,UK,3453597.0,2556,63.0,79763.0,Y,30075,2019-11-23,2026-01-06,N,Policy renewal pending
+C0351,XYZ Ltd,Healthcare,India,4349913.0,1004,79.0,86442.0,Y,59500,2021-03-28,2025-09-12,No,Data mismatch
+C0741,Secure Solutions,Retail,UK,7579821.0,4362,28.0,199136.0,N,570,2023-05-18,2025-03-25,Y,Late claims
+C0847,Secure Corp,Financial Institutions,Singapore,9145310.0,3238,23.0,83532.0,NO,79655,2022-11-17,2026-02-10,Y,Data mismatch
+C0980,Global Corp,Manufacturing,Canada,1117433.0,3133,1.0,131374.0,Y,49850,2018-08-30,2025-08-01,Yes,Needs review
+C0640,NextGen Enterprises,Technology,UK,1822320.0,3029,86.0,16308.0,No,2103,2018-05-05,2026-01-31,Y,Late claims
+C0838,NextGen Enterprises,Technology,UK,7522212.0,2440,39.0,123474.0,YES,32101,2021-01-08,2026-04-12,N,Needs review
+C0472,ABC Enterprises,Energy,Canada,4070001.0,2946,92.0,67551.0,NO,69300,2018-04-10,2026-12-01,N,Good client
+C0813,Allied Enterprises,Telecom,Singapore,2457821.0,1490,39.0,105755.0,N,52446,2020-06-21,2026-10-25,N,Good client
+C0740,Global Enterprises,Healthcare,USA,735605.0,4115,4.0,177388.0,Yes,36182,2022-01-17,2026-03-25,No,Clean history
+C0470,XYZ Solutions,Telecom,UK,9651536.0,3580,18.0,158808.0,Y,4994,2023-07-23,2026-08-19,Yes,Late claims
+C0661,ABC Ltd,Healthcare,Singapore,4934357.0,51,,66215.0,No,64286,2022-06-26,2026-09-04,Y,Late claims
+C0224,Global Solutions,Technology,India,2126793.0,4872,87.0,198515.0,N,5039,2018-12-07,2026-08-20,N,Late claims
+C0931,NextGen Corp,Manufacturing,Singapore,9551337.0,3652,33.0,197029.0,N,98530,2023-09-08,2026-11-20,No,Late claims
+C0908,Global Corp,Energy,USA,7805092.0,4818,92.0,168324.0,No,54219,2018-08-22,2025-08-18,Y,Frequent small claims
+C0989,ABC Pvt,Financial Institutions,Germany,1096530.0,1590,61.0,18050.0,Yes,92446,2019-08-16,2026-09-15,No,Clean history
+C0532,Global Pvt,Manufacturing,Singapore,5039003.0,778,60.0,10355.0,NO,54319,2021-06-23,2026-12-21,N,Policy renewal pending
+C0430,ABC Corp,Energy,Canada,1200567.0,4876,20.0,21566.0,NO,84607,2024-11-06,2025-10-06,No,Late claims
+C0795,Secure Solutions,Retail,Australia,4248887.0,3603,48.0,163485.0,NO,25517,2018-03-10,2026-01-01,No,Good client
+C0773,Allied Solutions,Energy,UK,2668103.0,3122,3.0,98783.0,No,3255,2020-11-07,2025-03-01,Yes,Needs review
+C0542,Secure Pvt,Healthcare,Singapore,7039705.0,3167,30.0,,Y,11577,2023-01-03,2026-08-27,Yes,Needs review
+C0644,ABC Ltd,Retail,Germany,5487408.0,4900,38.0,,N,98046,2023-06-30,2025-08-13,No,Needs review
+C0268,Prime Solutions,Telecom,India,8616999.0,321,81.0,31086.0,YES,86664,2021-10-23,2025-11-28,N,Frequent small claims
+C0333,XYZ Enterprises,Healthcare,Canada,6612440.0,2080,96.0,186948.0,N,26489,2022-12-11,2026-08-20,Y,Needs review
+C0404,Global Ltd,,USA,3712610.0,1597,20.0,116041.0,No,43370,2022-06-20,2025-08-30,No,Clean history
+C0134,Secure Enterprises,Technology,USA,143585.0,3522,4.0,188467.0,No,67054,2024-11-29,2026-04-21,Yes,Policy renewal pending
+C0771,ABC Corp,Energy,India,8476430.0,4490,98.0,181314.0,Y,56541,2020-08-29,2026-07-24,N,Late claims
+C0974,Prime Enterprises,Financial Institutions,Canada,3217172.0,257,86.0,15728.0,Yes,25805,2019-04-27,2026-10-14,Y,Late claims
+C0963,Prime Ltd,Energy,USA,2102324.0,2451,51.0,73368.0,Yes,89499,2019-03-29,2025-02-02,Yes,Good client
+C0206,Allied Enterprises,Telecom,,4606259.0,4043,48.0,32716.0,N,44816,2018-11-20,2025-08-18,Yes,Good client
+C0993,Global Ltd,Healthcare,Singapore,6331219.0,335,27.0,67021.0,No,19942,,2025-04-10,No,Good client
+C0244,NextGen Enterprises,Retail,Singapore,,970,5.0,79965.0,No,43326,2021-05-14,2025-03-12,N,Good client
+C0759,Secure Enterprises,Financial Institutions,,9910404.0,4231,9.0,55081.0,Y,59821,2020-06-06,2025-04-02,Y,Late claims
+C0483,Allied Enterprises,Healthcare,Germany,5881565.0,3648,91.0,141865.0,N,51717,2024-04-10,2026-07-23,Y,Needs review
+C0986,ABC Corp,Healthcare,USA,4956447.0,286,25.0,38276.0,YES,57021,2020-03-07,2025-02-16,Yes,Frequent small claims
+C0654,Allied Corp,Energy,Germany,4140479.0,4939,7.0,117217.0,N,38437,2023-10-27,2025-08-31,N,Policy renewal pending
+C0217,Secure Pvt,Retail,UK,9232582.0,3903,59.0,145641.0,NO,1134,2021-08-17,2025-06-17,Y,Needs review
+C0526,Allied Ltd,,Australia,1386643.0,4483,100.0,161671.0,YES,670,2021-07-20,2025-05-27,Yes,Clean history
+C0482,Allied Corp,Telecom,UK,998320.0,983,47.0,189456.0,Yes,2581,2023-02-24,2025-09-06,Yes,Policy renewal pending
+C0026,Allied Enterprises,Financial Institutions,UK,9989550.0,2115,43.0,75448.0,Yes,88791,2022-05-13,2026-12-12,Y,Clean history
+C0880,Prime Corp,Financial Institutions,USA,929735.0,1895,78.0,181098.0,Yes,3373,2019-05-09,2026-07-26,Y,Late claims
+C0603,NextGen Enterprises,Financial Institutions,Canada,5337196.0,3854,41.0,8866.0,Yes,22588,2018-08-19,2025-04-08,No,Policy renewal pending
+C0874,ABC Enterprises,Energy,Singapore,5755378.0,2409,19.0,,No,15735,2018-06-26,2026-12-07,No,Frequent small claims
+C0058,NextGen Enterprises,Energy,USA,2399435.0,2588,82.0,118816.0,N,24335,2020-06-13,2026-03-29,Yes,Good client
+C0883,ABC Corp,Manufacturing,USA,5382591.0,2988,19.0,96502.0,No,10692,2021-11-04,2025-08-06,No,Good client
+C0817,Prime Solutions,Retail,USA,8486180.0,3388,1.0,8696.0,No,27230,2018-03-28,2026-06-14,No,Needs review
+C0904,Prime Enterprises,Telecom,Australia,7653974.0,1634,94.0,42044.0,N,92949,2023-07-08,2025-11-24,No,Good client
+C0405,XYZ Pvt,Energy,Germany,7131883.0,344,75.0,121185.0,YES,8328,2020-04-04,2026-05-05,N,Data mismatch
+C0682,ABC Solutions,Telecom,India,1453038.0,77,52.0,169912.0,Yes,6644,2018-12-29,2026-11-24,N,Data mismatch
+C0305,XYZ Ltd,Manufacturing,USA,9914996.0,934,73.0,118613.0,YES,76709,2019-02-22,2026-02-06,N,Frequent small claims
+C0996,Secure Corp,Financial Institutions,USA,1145482.0,4601,,171132.0,N,53772,2018-05-26,2025-11-12,N,Good client
+C0282,NextGen Pvt,Technology,Germany,8013697.0,1215,89.0,196083.0,N,91470,2021-05-23,2026-07-09,Y,Good client
+C0589,XYZ Corp,Healthcare,Singapore,6755623.0,564,21.0,17828.0,NO,60593,2023-07-28,2025-10-08,N,Data mismatch
+C0632,Prime Enterprises,Energy,USA,7253768.0,1005,22.0,69110.0,Y,20884,2019-04-10,2026-03-12,Yes,Data mismatch
+C0554,Secure Solutions,Technology,,3793976.0,2291,95.0,95887.0,YES,35740,2021-02-06,2025-04-13,N,Frequent small claims
+C0133,Global Solutions,,USA,6806971.0,1758,4.0,84003.0,No,94876,2019-10-03,2025-08-28,No,Frequent small claims
+C0339,Allied Ltd,Technology,Singapore,1272622.0,3731,92.0,141917.0,No,48516,2024-09-20,2026-07-11,Yes,Needs review
+C0298,Global Solutions,Financial Institutions,India,8619981.0,4855,11.0,149063.0,Y,73539,2019-07-17,2025-09-08,N,Needs review
+C0746,Global Pvt,Financial Institutions,India,6959991.0,3973,25.0,128765.0,Y,84425,2023-09-02,2026-11-24,Yes,Clean history
+C0778,Secure Solutions,Energy,Singapore,6052793.0,3341,21.0,82960.0,No,91056,2021-12-21,2025-09-03,Yes,Good client
+C0971,ABC Enterprises,,,418408.0,3424,76.0,138682.0,YES,84214,2020-12-18,2026-04-29,Yes,Needs review
+C0250,NextGen Enterprises,Financial Institutions,Canada,4224499.0,360,11.0,155023.0,N,10103,2018-02-28,2026-05-23,No,Data mismatch
+C0647,Secure Enterprises,Financial Institutions,India,1187341.0,1319,10.0,92265.0,No,12391,2024-06-11,2026-02-02,Yes,Clean history
+C0101,Prime Enterprises,Manufacturing,USA,4242807.0,4666,32.0,104932.0,Yes,80702,2019-07-06,2026-03-08,Y,Needs review
+C0663,Allied Solutions,Telecom,USA,4992472.0,2390,86.0,54429.0,YES,14908,2021-08-16,2026-01-08,Yes,Good client
+C0236,Secure Solutions,Manufacturing,Australia,6661000.0,2717,87.0,31762.0,Yes,58671,2018-05-11,2025-09-29,Y,Frequent small claims
+C0355,Secure Pvt,Technology,Singapore,9927141.0,4022,77.0,32810.0,NO,92789,2020-08-03,2026-06-12,Y,Data mismatch
+C0651,Global Enterprises,Financial Institutions,Germany,3131756.0,3673,49.0,108547.0,YES,67914,2020-07-09,2025-07-23,N,Clean history
+C0326,Prime Solutions,Technology,Germany,2776188.0,899,21.0,45510.0,N,77243,2018-06-16,2026-07-18,Yes,Needs review
+C0536,Global Corp,Healthcare,,548345.0,828,24.0,32364.0,NO,16633,2019-07-29,2026-12-02,Y,Needs review
+C0735,NextGen Pvt,Technology,UK,9402640.0,325,63.0,20449.0,NO,46646,2020-05-07,2025-02-12,No,Good client
+C0045,XYZ Corp,Telecom,Australia,2769995.0,3129,52.0,197512.0,Yes,1481,2024-02-09,2026-11-23,No,Needs review
+C0016,Global Solutions,Retail,India,9280351.0,772,52.0,152796.0,NO,24618,2020-11-30,2025-10-13,No,Needs review
+C0327,ABC Pvt,Manufacturing,,3395990.0,2159,13.0,185005.0,No,35098,2024-02-06,2025-08-29,Y,Frequent small claims
+C0475,Secure Enterprises,Retail,USA,4694877.0,1038,57.0,171277.0,No,34872,2018-03-11,2025-01-05,Y,Needs review
+C0356,ABC Enterprises,Telecom,UK,3603157.0,963,22.0,82842.0,N,92420,2022-07-07,2025-12-30,No,Policy renewal pending
+C0812,Secure Corp,Energy,India,2996818.0,2925,47.0,14171.0,N,46830,2019-09-18,2025-08-07,No,Clean history
+C0235,Prime Corp,,,5284502.0,3273,72.0,,Yes,34397,2019-12-20,2026-03-30,Yes,Late claims
+C0622,NextGen Ltd,Manufacturing,Singapore,8516320.0,3938,17.0,66240.0,Yes,20324,2020-12-17,2025-08-19,N,Clean history
+C0203,NextGen Pvt,Telecom,Australia,1759066.0,759,1.0,172647.0,N,68498,2023-06-22,2025-03-26,Yes,Late claims
+C0238,ABC Enterprises,,India,4992306.0,3033,1.0,199994.0,Yes,66897,2021-01-19,2025-05-27,Yes,Late claims
+C0278,Prime Ltd,Technology,UK,,2674,36.0,71418.0,YES,43427,2021-02-15,2026-05-27,No,Good client
+C0414,NextGen Ltd,Telecom,Australia,6697519.0,4820,20.0,194466.0,No,30049,2019-07-15,2025-08-29,N,Late claims
+C0873,Prime Pvt,Healthcare,Australia,9010852.0,3704,42.0,178423.0,Yes,77694,2023-10-05,2026-12-13,Yes,Policy renewal pending
+C0247,NextGen Solutions,Telecom,Singapore,891971.0,542,,89754.0,YES,869,2023-05-25,2026-03-12,Y,Clean history
+C0832,Global Ltd,Retail,Germany,671650.0,3414,53.0,20417.0,Yes,87985,2023-08-22,2025-08-10,N,Clean history
+C0951,ABC Pvt,Financial Institutions,Singapore,938761.0,1785,47.0,181118.0,Y,20789,2024-05-31,2025-11-09,N,Frequent small claims
+C0316,Prime Pvt,Telecom,Singapore,8206609.0,1846,51.0,53456.0,Yes,31174,2024-09-18,2025-04-11,N,Data mismatch
+C0826,NextGen Pvt,Energy,Germany,5909701.0,2551,38.0,141028.0,Y,72489,2018-11-28,2025-11-28,No,Frequent small claims
+C0841,Allied Ltd,Technology,Singapore,7311179.0,1054,77.0,96328.0,N,45619,2023-03-14,2026-03-26,No,Data mismatch
+C0487,NextGen Pvt,Energy,Singapore,4360538.0,3106,,179220.0,N,38759,2020-09-02,2025-03-09,Yes,Needs review
+C0765,ABC Solutions,Technology,Singapore,870173.0,3769,11.0,15211.0,NO,74102,2021-07-06,2026-12-06,N,Frequent small claims
+C0877,Global Solutions,,Australia,7041245.0,1525,84.0,157026.0,NO,44673,2020-03-30,2026-12-02,Y,Needs review
+C0085,XYZ Enterprises,Energy,,148984.0,854,68.0,91120.0,YES,26049,2023-11-16,2025-08-29,N,Clean history
+C0988,Secure Ltd,Telecom,India,6957658.0,4775,17.0,155945.0,No,63400,2021-06-07,2025-12-01,Y,Policy renewal pending
+C0384,ABC Corp,Financial Institutions,India,3277945.0,1766,10.0,59189.0,No,30954,2018-03-10,2026-12-07,Yes,Data mismatch
+C0851,NextGen Corp,Technology,Canada,2819269.0,4469,46.0,51002.0,Yes,75831,2023-12-21,2025-04-26,N,Policy renewal pending
+C0013,XYZ Enterprises,Healthcare,Australia,4621373.0,2312,65.0,22543.0,No,71569,2022-10-07,2025-07-08,Y,Clean history
+C0545,Allied Enterprises,Financial Institutions,India,1554908.0,763,7.0,132927.0,YES,44386,2024-11-18,2025-03-13,No,Needs review
+C0421,Allied Corp,Energy,UK,5838852.0,1485,54.0,158245.0,N,65774,2020-12-22,2026-04-22,Y,Late claims
+C0853,XYZ Enterprises,Energy,USA,5772354.0,190,14.0,158698.0,Y,90221,2021-09-04,2025-05-21,Yes,Good client
+C0700,Prime Solutions,Financial Institutions,Canada,9150222.0,1330,55.0,163117.0,Yes,98371,2023-03-12,2026-08-30,Yes,Frequent small claims
+C0265,Secure Corp,Technology,Australia,5172148.0,294,38.0,164380.0,NO,19296,2019-02-20,2026-06-26,No,Policy renewal pending
+C0968,Global Enterprises,Technology,Singapore,6249031.0,3669,28.0,167917.0,NO,8597,2024-12-23,2025-08-13,N,Policy renewal pending
+C0915,NextGen Pvt,Technology,Singapore,5497662.0,1596,93.0,43402.0,Yes,86694,2019-04-27,2026-05-03,No,Frequent small claims
+C0262,XYZ Pvt,Manufacturing,India,718467.0,2082,8.0,139702.0,NO,82214,2024-09-18,2025-10-20,N,Good client
+C0695,NextGen Corp,Technology,India,2626954.0,319,,,NO,86724,2024-04-04,2025-06-24,Yes,Good client
+C0781,Allied Ltd,Financial Institutions,Canada,9401434.0,624,62.0,154092.0,No,23989,2019-07-27,2026-02-16,Yes,Good client
+C0744,Global Corp,Telecom,USA,7513718.0,3299,27.0,101566.0,N,78824,2022-10-21,2026-06-06,N,Data mismatch
+C0300,NextGen Pvt,Manufacturing,Singapore,8603902.0,1513,15.0,109946.0,N,68814,2021-04-21,2026-06-22,No,Clean history
+C0479,ABC Solutions,Manufacturing,Canada,7090102.0,1732,70.0,111122.0,NO,51759,2022-12-13,2026-06-10,Y,Frequent small claims
+C0413,XYZ Enterprises,Telecom,Germany,6617963.0,4593,4.0,58117.0,YES,91057,2021-10-21,2026-12-28,Yes,Needs review
+C0934,Allied Solutions,Technology,,7495350.0,2651,,159136.0,Y,11151,2023-02-16,2026-04-15,Y,Policy renewal pending
+C0500,NextGen Corp,Manufacturing,USA,2863642.0,3683,,76854.0,N,49683,2023-02-27,2026-10-26,Yes,Clean history
+C0391,Global Ltd,Technology,USA,903328.0,875,13.0,160394.0,NO,90226,2019-09-19,2025-12-12,No,Clean history
+C0507,Secure Solutions,Manufacturing,India,5432660.0,576,69.0,194344.0,Yes,73933,2019-11-28,2026-02-05,No,Good client
+C0598,Global Pvt,Energy,Australia,4678238.0,3688,19.0,179863.0,N,76280,2019-10-04,2025-01-05,N,Frequent small claims
+C0550,Allied Solutions,Healthcare,Germany,5404509.0,4094,,112692.0,No,86598,2021-07-12,2026-09-20,No,Data mismatch
+C0751,Secure Solutions,Healthcare,Australia,3001614.0,4520,20.0,30372.0,YES,72518,2018-05-12,2025-10-09,No,Policy renewal pending
+C0552,NextGen Pvt,Energy,Germany,,967,16.0,90896.0,NO,35710,2018-03-17,2025-08-13,No,Frequent small claims
+C0533,Secure Enterprises,Financial Institutions,USA,6411326.0,2093,57.0,59120.0,N,92067,2020-11-20,2026-01-25,Y,Late claims
+C0782,XYZ Ltd,Energy,India,2797143.0,3282,33.0,144227.0,N,24519,2024-05-12,2025-06-19,No,Policy renewal pending
+C0428,Prime Enterprises,Technology,Singapore,1452695.0,4629,57.0,129184.0,N,76700,2018-11-16,2026-10-04,Y,Needs review
+C0301,NextGen Pvt,Technology,Germany,6314624.0,3465,17.0,41593.0,Y,7296,2024-09-18,2025-02-03,Yes,Clean history
+C0756,Secure Ltd,Energy,Singapore,9118873.0,1849,61.0,160892.0,Y,9941,2024-09-30,2026-07-20,Y,Clean history
+C0390,NextGen Pvt,Retail,India,5044505.0,606,41.0,24810.0,Y,99977,2022-09-08,2025-06-05,Y,Good client
+C0909,XYZ Solutions,Technology,Australia,7683354.0,680,8.0,8832.0,NO,45991,2021-08-02,2025-05-28,Yes,Needs review
+C0123,Prime Corp,Energy,USA,974371.0,1672,9.0,126251.0,Yes,41167,2020-02-09,2026-01-04,Yes,Needs review
+C0950,XYZ Corp,Energy,Germany,990695.0,2873,46.0,115138.0,No,1630,2021-01-08,2026-01-24,No,Good client
+C0666,Allied Pvt,Healthcare,UK,6280142.0,4698,27.0,174530.0,NO,37228,2019-09-27,2026-12-22,N,Data mismatch
+C0529,Global Ltd,Telecom,USA,7083896.0,4752,54.0,92697.0,No,55612,2019-04-03,2025-03-29,Y,Data mismatch
+C0293,XYZ Ltd,Energy,Germany,3551356.0,2091,95.0,84063.0,Y,28927,2018-04-30,2025-07-14,No,Frequent small claims
+C0213,NextGen Pvt,Retail,,3996830.0,4040,28.0,91836.0,YES,93863,2021-01-04,2026-06-22,No,Late claims
+C0665,ABC Ltd,Manufacturing,UK,5265679.0,3102,14.0,113048.0,NO,50626,,2025-11-29,No,Late claims
+C0673,NextGen Pvt,Manufacturing,India,417537.0,2328,25.0,51473.0,NO,35618,2018-01-14,2026-01-07,N,Frequent small claims
+C0736,Secure Enterprises,Retail,Germany,4082588.0,2790,21.0,81221.0,N,63185,2023-08-01,2025-10-08,N,Data mismatch
+C0251,Allied Solutions,Energy,Germany,6046594.0,788,52.0,,Yes,82522,2018-09-05,2026-11-20,Y,Data mismatch
+C0369,ABC Enterprises,Energy,Germany,6854350.0,2212,25.0,47727.0,YES,44589,2020-07-06,2025-07-09,Yes,Needs review
+C0233,NextGen Ltd,Financial Institutions,Germany,,664,8.0,60778.0,N,67087,2018-02-08,2026-07-04,No,Data mismatch
+C0002,Global Pvt,Financial Institutions,,6650634.0,3482,38.0,10410.0,N,174,2020-08-19,2025-09-05,No,Good client
+C0357,ABC Pvt,Financial Institutions,India,8372874.0,4599,43.0,127225.0,N,32854,2019-04-02,2026-02-21,N,Policy renewal pending
+C0131,Secure Pvt,,Canada,3059034.0,504,16.0,105127.0,YES,60710,2019-12-31,2025-07-20,Yes,Good client
+C0106,Allied Solutions,Manufacturing,USA,2221690.0,3480,23.0,164741.0,N,98505,2024-11-03,2025-09-02,No,Data mismatch
+C0898,Allied Solutions,Energy,India,3469538.0,3733,14.0,163128.0,YES,51934,2021-04-17,2025-10-01,Y,Policy renewal pending
+C0125,ABC Pvt,Energy,Australia,1073548.0,4102,,172860.0,NO,65303,2022-01-02,2026-01-25,N,Good client
+C0157,NextGen Pvt,Healthcare,Australia,,4243,62.0,125234.0,NO,29084,2024-01-07,2025-09-18,No,Policy renewal pending
+C0821,NextGen Ltd,Manufacturing,USA,1054480.0,3039,67.0,24149.0,N,55571,2019-02-13,2025-02-14,Yes,Policy renewal pending
+C0062,NextGen Corp,Healthcare,,3869315.0,4327,25.0,71262.0,YES,46289,2023-06-29,2025-08-06,Y,Late claims
+C0721,Secure Pvt,Healthcare,Germany,5379548.0,2431,8.0,144883.0,N,14211,2019-11-12,2026-12-01,Yes,Policy renewal pending
+C0685,Global Pvt,Telecom,Canada,,4406,,169055.0,Y,33687,2020-04-13,2025-09-13,Y,Policy renewal pending
+C0959,Global Ltd,Manufacturing,Canada,2376106.0,2867,51.0,57874.0,Y,66981,2020-11-05,2026-12-09,N,Late claims
+C0601,Secure Corp,Healthcare,UK,4611732.0,4830,12.0,7745.0,NO,12226,2020-01-17,2026-10-12,Yes,Frequent small claims
+C0303,Allied Solutions,Telecom,Canada,6457182.0,1918,18.0,166458.0,N,35842,2019-03-10,2025-10-12,No,Needs review
+C0845,XYZ Ltd,Retail,Australia,8391923.0,4481,6.0,89700.0,No,65149,2018-01-30,2025-12-24,Y,Good client
+C0436,Prime Pvt,Financial Institutions,Australia,6332753.0,4619,3.0,137661.0,Yes,5126,2018-02-12,2026-10-25,No,Policy renewal pending
+C0913,XYZ Solutions,Manufacturing,USA,4157893.0,2516,55.0,,YES,38862,2019-03-02,2025-02-07,N,Policy renewal pending
+C0239,NextGen Enterprises,Retail,Canada,3774515.0,4328,51.0,175492.0,Yes,26149,2022-07-30,2025-02-15,No,Needs review
+C0937,ABC Pvt,Energy,Australia,7268362.0,4889,81.0,70458.0,Yes,44739,2024-09-02,2026-07-04,Y,Late claims
+C0139,Secure Ltd,Manufacturing,UK,2109021.0,3679,52.0,20434.0,Yes,64619,2021-04-06,2026-03-24,Yes,Late claims
+C0169,Global Pvt,Telecom,India,4359622.0,1574,85.0,153510.0,N,1813,2021-07-30,2025-09-30,N,Late claims
+C0453,Global Pvt,Energy,India,8554561.0,4715,83.0,148309.0,No,9359,2018-12-11,2026-11-28,N,Needs review
+C0112,Allied Enterprises,Energy,Canada,7006726.0,3230,10.0,167777.0,N,25917,2019-04-05,2026-06-07,Y,Needs review
+C0362,NextGen Ltd,Financial Institutions,USA,1852683.0,845,3.0,16590.0,Yes,27518,2022-08-02,2026-09-20,Y,Data mismatch
+C0939,Prime Ltd,Healthcare,UK,7384953.0,122,88.0,135429.0,Y,35303,2020-12-03,2025-06-14,Yes,Policy renewal pending
+C0099,NextGen Ltd,Energy,India,4645583.0,3330,63.0,65058.0,N,89116,2020-07-18,2026-08-20,No,Data mismatch
+C0435,Secure Solutions,Healthcare,USA,6057515.0,71,14.0,125263.0,NO,15810,2024-11-02,2026-07-15,Y,Data mismatch
+C0938,Secure Solutions,Energy,India,4427819.0,4498,98.0,152661.0,YES,32954,2023-05-22,2025-11-11,Y,Frequent small claims
+C0155,Allied Corp,Healthcare,,2648421.0,1300,55.0,22297.0,YES,51707,2019-07-13,2026-06-24,Yes,Good client
+C0501,Secure Pvt,Retail,USA,7789684.0,4494,51.0,99230.0,No,87999,2022-01-25,2025-12-29,Yes,Clean history
+C0181,Secure Ltd,Energy,Australia,5695108.0,221,63.0,119650.0,NO,77219,2024-06-20,2026-03-07,No,Clean history
+C0520,NextGen Ltd,Telecom,Australia,6746705.0,3838,4.0,130737.0,Yes,33665,2021-10-18,2026-08-18,No,Policy renewal pending
+C0228,XYZ Pvt,Energy,Germany,7399695.0,984,69.0,90376.0,YES,27586,2024-01-26,2026-08-06,Y,Clean history
+C0065,Secure Solutions,Telecom,Singapore,664685.0,4475,36.0,72411.0,Yes,16199,2022-05-01,2026-02-25,Yes,Good client
+C0368,Global Enterprises,Healthcare,Australia,5243901.0,2446,39.0,125356.0,YES,23199,2019-01-15,2026-04-03,N,Data mismatch
+C0146,Secure Pvt,Telecom,Canada,2584413.0,3413,99.0,106665.0,Yes,81730,2018-04-04,2026-07-29,N,Data mismatch
+C0836,Global Enterprises,Retail,India,5009047.0,92,76.0,166033.0,Yes,92435,2023-05-11,2026-07-22,No,Needs review
+C0752,Allied Solutions,Retail,Australia,3066422.0,2083,34.0,8642.0,N,39104,2023-08-29,2026-06-20,Yes,Good client
+C0828,NextGen Corp,Energy,India,8771370.0,1227,63.0,68811.0,NO,91036,2018-08-28,2026-02-09,Y,Late claims
+C0036,Global Ltd,Technology,Canada,6740913.0,4945,35.0,27054.0,Yes,389,2018-12-17,2026-05-22,Y,Data mismatch
+C0860,NextGen Solutions,Energy,India,8160833.0,3660,78.0,109601.0,YES,15408,2022-05-12,2026-10-16,Y,Policy renewal pending
+C0564,Allied Corp,Retail,Singapore,921052.0,366,82.0,59336.0,Y,87796,2020-10-25,2025-09-26,Y,Policy renewal pending
+C0232,Secure Pvt,Technology,India,2572189.0,3611,87.0,86532.0,Y,86346,,2026-11-24,Yes,Good client
+C0814,XYZ Solutions,Telecom,Germany,9013742.0,4450,70.0,113125.0,No,15160,2023-04-12,2026-03-16,Yes,Clean history
+C0135,NextGen Corp,Technology,USA,2639448.0,3019,40.0,44758.0,NO,30949,2018-11-27,2025-02-07,Yes,Good client
+C0364,Secure Solutions,Financial Institutions,UK,1104646.0,4738,19.0,148938.0,N,59848,2023-11-05,2026-11-01,No,Good client
+C0458,Global Solutions,Telecom,USA,3022097.0,3406,58.0,51154.0,Y,14671,2024-10-23,2025-11-12,Y,Needs review
+C0669,Global Enterprises,Manufacturing,UK,1634026.0,4526,,196686.0,Y,28302,2021-02-13,2025-05-05,Y,Data mismatch
+C0991,ABC Solutions,Energy,Singapore,2701623.0,413,6.0,89040.0,Yes,76537,2023-04-06,2025-12-11,Yes,Policy renewal pending
+C0713,XYZ Enterprises,Manufacturing,Canada,1701596.0,1440,80.0,180326.0,Yes,33418,2019-07-08,2026-07-28,Y,Late claims
+C0527,Global Solutions,Healthcare,Germany,8415390.0,1439,70.0,71914.0,YES,89211,2022-03-09,2025-05-13,N,Policy renewal pending
+C0437,Allied Enterprises,Energy,,5346880.0,3241,88.0,30235.0,NO,30009,2022-03-22,2025-04-02,Yes,Clean history
+C0863,Prime Solutions,Retail,USA,486594.0,1731,40.0,66844.0,YES,16351,2020-02-27,2025-10-22,N,Policy renewal pending
+C0198,Global Pvt,Energy,India,210078.0,4112,13.0,25538.0,Y,60686,,2026-02-16,Yes,Good client
+C0461,Allied Ltd,Energy,India,3089475.0,3392,64.0,94678.0,No,25963,2024-05-06,2026-07-27,Yes,Policy renewal pending
+C0457,Secure Corp,Retail,UK,6218900.0,4883,30.0,,Yes,33272,,2026-04-24,N,Clean history
+C0450,Allied Corp,Manufacturing,India,4933177.0,4049,19.0,76126.0,NO,10655,2024-10-13,2026-01-21,No,Policy renewal pending
+C0025,NextGen Ltd,Technology,Australia,4821339.0,3545,22.0,141535.0,Yes,79747,2019-02-20,2026-01-14,No,Frequent small claims
+C0214,Prime Corp,Telecom,,4436787.0,3207,75.0,141570.0,YES,10278,2021-12-01,2025-05-08,Y,Policy renewal pending
+C0739,Allied Enterprises,Financial Institutions,Australia,9406167.0,175,34.0,92178.0,NO,91051,2023-03-06,2026-12-30,No,Data mismatch
+C0576,NextGen Solutions,Energy,India,1973421.0,1157,75.0,33172.0,No,64551,2020-06-04,2025-10-17,N,Good client
+C0385,Prime Ltd,Healthcare,USA,,4501,21.0,53511.0,N,96671,2023-11-09,2026-06-10,No,Policy renewal pending
+C0079,XYZ Ltd,Retail,India,1867640.0,1459,8.0,160378.0,NO,887,2019-03-04,2025-07-26,Yes,Policy renewal pending
+C0591,ABC Enterprises,Healthcare,Canada,7078737.0,4159,69.0,101664.0,YES,49522,2024-05-16,2025-07-17,No,Good client
+C0177,Allied Pvt,Financial Institutions,Germany,325281.0,4276,81.0,125906.0,YES,78854,2022-01-14,2026-10-21,Yes,Good client
+C0379,Allied Ltd,Telecom,India,6419707.0,3289,99.0,80969.0,Y,13917,2019-01-07,2025-09-09,Y,Clean history
+C0779,Global Corp,,Canada,9061343.0,4083,28.0,89388.0,N,19173,2022-09-13,2026-06-29,N,Policy renewal pending
+C0965,Secure Pvt,Energy,Australia,6771318.0,4261,55.0,37920.0,Y,29932,2023-02-16,2026-10-11,Yes,Good client
+C0201,Secure Enterprises,Telecom,Singapore,9892712.0,1800,9.0,76155.0,No,2426,2023-01-31,2026-01-25,N,Frequent small claims
+C0401,Secure Pvt,Financial Institutions,UK,3799391.0,3379,14.0,148521.0,N,44942,2022-01-01,2026-04-13,Y,Late claims
+C0547,Secure Solutions,Technology,Germany,8793670.0,4387,55.0,187240.0,No,89791,2021-09-18,2026-06-26,N,Frequent small claims
+C0469,XYZ Solutions,Manufacturing,UK,7426434.0,3143,97.0,31917.0,N,94636,2024-08-30,2026-06-29,Y,Data mismatch
+C0618,NextGen Ltd,Technology,India,3414692.0,4180,41.0,45992.0,No,75542,2022-05-25,2025-05-27,Y,Frequent small claims
+C0705,Prime Corp,Retail,USA,9517063.0,3228,82.0,133557.0,No,10922,2022-12-14,2026-12-08,Yes,Late claims
+C0052,XYZ Enterprises,Manufacturing,Germany,4010197.0,3350,91.0,191356.0,NO,19477,2019-12-12,2026-11-20,Y,Policy renewal pending
+C0432,Global Ltd,Technology,USA,149115.0,967,71.0,43333.0,NO,61510,2023-12-01,2026-09-28,Y,Needs review
+C0872,Global Solutions,Financial Institutions,USA,973172.0,3229,3.0,175536.0,Yes,18263,2022-02-05,2025-05-03,No,Late claims
+C0793,XYZ Ltd,Financial Institutions,Australia,5156861.0,1687,57.0,179535.0,NO,39350,2018-06-02,2026-12-29,N,Needs review
+C0530,NextGen Pvt,Manufacturing,Australia,8883148.0,215,46.0,111239.0,YES,44535,2020-02-23,2025-06-22,N,Frequent small claims
+C0634,Secure Ltd,Energy,Canada,4565150.0,4753,66.0,157008.0,Y,81570,2019-06-14,2026-10-18,No,Data mismatch
+C0850,Secure Solutions,Healthcare,UK,2290222.0,3904,98.0,138943.0,YES,37099,2019-12-06,2026-03-18,Y,Clean history
+C1000,Prime Enterprises,Financial Institutions,Germany,9783910.0,2881,40.0,30675.0,YES,97905,2018-01-03,2026-06-25,N,Late claims
+C0769,NextGen Corp,Financial Institutions,USA,4321038.0,1036,85.0,157614.0,No,66677,2021-06-14,2025-02-09,Y,Good client
+C0539,NextGen Pvt,Manufacturing,UK,3785501.0,1626,85.0,31654.0,No,32172,2019-12-26,2026-02-18,No,Clean history
+C0881,XYZ Ltd,Healthcare,India,7121862.0,1458,63.0,105772.0,No,10335,2021-05-04,2025-02-13,N,Good client
+C0172,XYZ Corp,Retail,India,516880.0,1290,53.0,178489.0,N,55276,2019-07-09,2025-07-06,Y,Policy renewal pending
+C0707,Allied Ltd,Financial Institutions,USA,8334679.0,2262,60.0,49605.0,Yes,33340,2019-07-05,2026-08-18,Y,Needs review
+C0136,Allied Ltd,Healthcare,India,209556.0,3078,17.0,59312.0,YES,22547,2023-02-19,2025-08-14,Yes,Needs review
+C0438,Allied Pvt,Telecom,India,1504330.0,2403,80.0,5159.0,NO,99120,2023-05-23,2025-05-15,No,Frequent small claims
+C0519,XYZ Pvt,Financial Institutions,Germany,9206824.0,444,90.0,71852.0,YES,68842,2024-05-08,2026-06-29,No,Good client
+C0440,Allied Enterprises,Financial Institutions,Australia,4135851.0,736,55.0,167993.0,No,192,2021-06-11,2026-05-10,No,Clean history
+C0046,Allied Enterprises,Energy,Germany,5097895.0,882,14.0,180271.0,No,56408,2022-12-31,2025-08-26,Yes,Good client
+C0084,Allied Corp,Healthcare,UK,1525472.0,1605,79.0,172708.0,N,86741,2020-08-15,2025-10-06,Yes,Data mismatch
+C0912,Global Solutions,Retail,USA,5913365.0,2902,41.0,117230.0,NO,9486,2020-03-28,2026-06-22,Y,Clean history
+C0260,Prime Ltd,Technology,,9849436.0,863,94.0,31421.0,YES,24170,2019-04-23,2026-02-13,Yes,Late claims
+C0708,Global Corp,Telecom,Germany,6563768.0,2402,84.0,89565.0,No,39850,2024-07-03,2026-07-27,Yes,Good client
+C0041,XYZ Enterprises,Technology,India,168148.0,4114,6.0,88276.0,Y,35531,2024-07-22,2025-02-11,Yes,Data mismatch
+C0375,ABC Solutions,Manufacturing,India,8711474.0,1362,5.0,16390.0,N,86465,2024-04-05,2026-10-19,Yes,Policy renewal pending
+C0425,ABC Pvt,Technology,Australia,3793305.0,2134,46.0,127258.0,YES,28916,2018-01-22,2025-02-13,Yes,Clean history
+C0624,Prime Ltd,Energy,UK,8601424.0,2027,70.0,142227.0,Yes,203,2023-12-10,2025-10-19,No,Data mismatch
+C0583,Global Ltd,Energy,India,,949,42.0,36881.0,Yes,41609,2018-12-04,2026-02-16,Y,Good client
+C0028,NextGen Pvt,Energy,Germany,184654.0,3107,86.0,135576.0,NO,84892,2024-10-08,2025-05-14,N,Good client
+C0489,ABC Solutions,Financial Institutions,Canada,6297323.0,841,9.0,138296.0,Y,25307,2022-02-28,2025-07-07,N,Late claims
+C0230,Global Ltd,Manufacturing,Germany,4441747.0,4547,44.0,166726.0,NO,50489,2020-04-07,2026-08-24,N,Late claims
+C0977,Allied Solutions,,Australia,4335042.0,682,34.0,25583.0,N,93065,2024-10-18,2025-07-05,N,Late claims
+C0949,Allied Enterprises,Financial Institutions,Australia,2781719.0,4305,76.0,62615.0,Yes,33037,2023-01-07,2026-11-03,Y,Policy renewal pending
+C0994,Allied Enterprises,Energy,Australia,4208997.0,198,8.0,,NO,20862,2019-02-25,2025-02-25,Yes,Clean history
+C0184,ABC Solutions,Telecom,Singapore,6709280.0,4247,55.0,125956.0,Y,2093,2019-09-29,2025-10-25,No,Data mismatch
+C0382,Secure Pvt,Retail,Singapore,3795961.0,412,98.0,82064.0,Y,64925,2020-12-05,2025-07-03,N,Needs review
+C0525,Allied Ltd,Financial Institutions,Singapore,6343669.0,2063,57.0,155043.0,No,14683,2020-01-09,2025-12-03,No,Clean history
+C0383,Prime Enterprises,Financial Institutions,India,8317316.0,2654,89.0,26281.0,Yes,70269,2021-04-13,2026-01-29,Y,Needs review
+C0363,Global Pvt,Telecom,India,7816868.0,4086,63.0,146958.0,N,51925,2020-07-19,2025-06-07,Yes,Late claims
+C0932,Secure Corp,Manufacturing,Australia,5943493.0,1291,73.0,171589.0,NO,20527,2023-06-29,2025-03-01,Yes,Clean history
+C0514,NextGen Corp,Manufacturing,India,4508249.0,570,74.0,83356.0,N,87923,2022-11-27,2026-05-05,N,Policy renewal pending
+C0027,Secure Ltd,Technology,UK,3375709.0,818,15.0,9648.0,YES,27962,2019-04-25,2026-06-29,Yes,Policy renewal pending
+C0476,ABC Corp,Technology,USA,1455531.0,4166,45.0,85811.0,No,42215,2020-07-03,2025-08-29,Yes,Data mismatch
+C0424,Prime Corp,Manufacturing,Australia,9897444.0,1295,38.0,170396.0,NO,71088,2019-04-26,2026-12-02,Y,Needs review
+C0277,Allied Solutions,Technology,,216381.0,4534,49.0,18893.0,No,49831,2018-06-09,2026-04-08,Y,Data mismatch
+C0443,NextGen Solutions,Energy,Germany,2155723.0,3797,34.0,112507.0,Yes,39082,2019-12-11,2025-12-27,No,Frequent small claims
+C0454,NextGen Ltd,,Germany,2697480.0,3659,22.0,151721.0,No,42056,2018-04-20,2026-01-01,N,Late claims
+C0018,Prime Corp,Healthcare,India,1362752.0,2129,23.0,121656.0,YES,18919,2019-04-01,2026-06-29,N,Good client
+C0241,Secure Enterprises,Manufacturing,Canada,9395925.0,88,99.0,90090.0,N,69906,2022-08-07,2025-10-16,N,Good client
+C0322,XYZ Ltd,Telecom,Germany,7415360.0,1646,39.0,151144.0,Y,82722,2023-03-06,2026-09-03,N,Data mismatch
+C0926,XYZ Enterprises,Manufacturing,Canada,7826890.0,1627,69.0,162636.0,N,36683,2023-03-18,2025-04-08,N,Good client
+C0895,XYZ Pvt,Energy,,1014228.0,3275,33.0,197322.0,YES,38230,2023-11-12,2025-09-19,Yes,Policy renewal pending
+C0831,Secure Enterprises,Telecom,USA,5852810.0,4449,57.0,68232.0,Yes,48225,2023-11-20,2025-10-02,Yes,Frequent small claims
+C0222,Allied Ltd,Technology,India,925816.0,1571,17.0,180021.0,No,88056,2020-03-11,2026-04-19,Yes,Frequent small claims
+C0593,Secure Pvt,Financial Institutions,Australia,4266500.0,3645,,20193.0,N,4886,2020-12-16,2026-08-04,N,Needs review
+C0558,XYZ Solutions,Telecom,Germany,9914149.0,4288,44.0,67491.0,No,17374,2021-10-04,2025-02-18,Y,Clean history
+C0734,Global Solutions,Telecom,UK,6601632.0,4635,1.0,78402.0,N,19610,2021-08-04,2026-11-09,Yes,Data mismatch
+C0105,Global Solutions,Technology,Singapore,5615989.0,1354,60.0,27785.0,YES,54845,2018-12-04,2025-11-29,Yes,Needs review
+C0023,NextGen Solutions,Technology,UK,5843066.0,1550,6.0,70333.0,No,37564,2019-08-14,2026-02-24,Y,Frequent small claims
+C0495,ABC Ltd,Technology,Australia,5482287.0,3726,50.0,67368.0,No,47937,2022-03-20,2026-02-10,N,Data mismatch
+C0342,XYZ Solutions,Retail,UK,1096161.0,2732,82.0,24337.0,NO,66736,2024-08-16,2025-07-16,No,Late claims
+C0148,XYZ Solutions,Financial Institutions,Canada,5995544.0,4174,,73803.0,Y,1306,2022-07-25,2025-05-05,N,Good client
+C0313,XYZ Enterprises,Retail,Germany,3180761.0,2850,85.0,189482.0,Yes,35529,2022-06-14,2026-07-14,N,Needs review
+C0407,Secure Pvt,Manufacturing,UK,244356.0,3167,95.0,199743.0,Y,85280,2022-03-25,2026-04-16,Yes,Clean history
+C0731,Prime Pvt,Healthcare,Australia,3225354.0,1058,11.0,64234.0,NO,94090,2021-08-29,2025-07-10,Yes,Policy renewal pending
+C0098,XYZ Corp,Retail,Canada,7230144.0,3236,60.0,155611.0,Yes,22931,2023-09-10,2026-08-02,N,Frequent small claims
+C0535,Secure Pvt,,Canada,8515398.0,3546,84.0,7257.0,YES,64712,2022-08-17,2026-09-08,N,Clean history
+C0876,XYZ Corp,Telecom,Australia,4163309.0,85,28.0,196387.0,N,47893,2023-07-16,2026-04-02,N,Good client
+C0484,Allied Corp,Technology,Germany,2107635.0,3283,15.0,141643.0,Y,2763,2024-12-16,2026-07-16,No,Late claims
+C0561,XYZ Ltd,Financial Institutions,,5847372.0,936,100.0,21923.0,Yes,45913,2022-06-21,2026-10-18,Y,Policy renewal pending
+C0497,Allied Solutions,Retail,Canada,1139458.0,569,77.0,49760.0,No,51756,2020-06-28,2026-12-27,Y,Policy renewal pending
+C0447,Allied Enterprises,Manufacturing,USA,4680081.0,78,,126534.0,Y,40142,2020-07-21,2025-02-10,N,Data mismatch
+C0074,Prime Enterprises,Technology,India,7907313.0,4227,41.0,104239.0,Y,66960,2024-01-11,2025-12-27,Yes,Late claims
+C0191,Allied Ltd,Healthcare,Australia,1219043.0,3690,93.0,163806.0,N,84021,2022-08-11,2026-03-29,No,Clean history
+C0097,XYZ Enterprises,Retail,Australia,1096107.0,4003,93.0,153226.0,N,90239,2019-01-28,2026-11-14,No,Good client
+C0180,XYZ Corp,Healthcare,Australia,7834102.0,4253,11.0,173298.0,Y,1920,2023-12-01,2026-11-10,Yes,Data mismatch
+C0283,ABC Solutions,Healthcare,Canada,2557184.0,425,62.0,43635.0,Yes,47195,2022-06-25,2026-06-29,Y,Good client
+C0124,XYZ Ltd,Financial Institutions,Singapore,,391,,,NO,71291,2020-12-13,2025-12-21,N,Good client
+C0288,ABC Corp,Financial Institutions,Singapore,3872962.0,754,91.0,108651.0,NO,46218,2024-02-15,2025-11-22,N,Late claims
+C0725,Secure Corp,Financial Institutions,Germany,4346049.0,331,,113042.0,NO,52691,2019-01-12,2025-09-07,No,Data mismatch
+C0296,Allied Corp,Manufacturing,India,3027109.0,4118,32.0,187170.0,No,29493,2022-12-28,2026-07-01,Yes,Policy renewal pending
+C0208,Prime Ltd,Technology,Australia,7758426.0,96,97.0,151920.0,N,91176,2020-02-24,2025-10-01,No,Clean history
+C0774,Prime Pvt,Healthcare,Singapore,8569872.0,3174,76.0,130681.0,YES,57433,2023-02-05,2026-01-05,Y,Good client
+C0717,XYZ Solutions,Telecom,USA,6448564.0,1324,40.0,43405.0,N,70532,2019-12-08,2025-05-22,N,Clean history
+C0274,NextGen Ltd,Technology,USA,2369042.0,970,79.0,71093.0,Y,63610,2018-01-11,2025-06-01,Y,Needs review
+C0737,Secure Pvt,Energy,USA,8183123.0,2339,30.0,94080.0,YES,72567,2021-05-04,2026-01-07,Yes,Policy renewal pending
+C0142,Global Corp,Technology,Germany,4370070.0,1436,50.0,71677.0,No,26990,2023-07-08,2025-10-19,No,Clean history
+C0095,Global Solutions,Manufacturing,Germany,3953339.0,4881,20.0,,Y,75277,2018-12-29,2025-07-21,Yes,Frequent small claims
+C0271,Secure Solutions,Telecom,USA,5953584.0,1312,25.0,96088.0,No,85178,2023-11-08,2026-05-25,Y,Good client
+C0024,ABC Ltd,Retail,UK,6213790.0,335,35.0,187024.0,No,45814,2023-10-19,2026-06-22,N,Data mismatch
+C0409,Secure Pvt,Energy,UK,8498043.0,1186,56.0,105859.0,YES,36320,2022-01-28,2026-08-08,Yes,Late claims
+C0336,ABC Pvt,Manufacturing,Singapore,2799015.0,4725,22.0,104441.0,YES,71832,2023-04-30,2025-09-30,Y,Needs review
+C0234,Prime Pvt,Retail,India,1341082.0,1232,77.0,42772.0,No,12625,2020-04-09,2025-10-13,Y,Policy renewal pending
+C0258,Allied Corp,,Canada,5420385.0,3262,5.0,,Y,43516,2022-10-04,2026-02-09,Y,Late claims
+C0225,XYZ Enterprises,Healthcare,Germany,,1550,88.0,5138.0,YES,21281,2024-10-16,2026-08-10,N,Needs review
+C0643,Prime Enterprises,Manufacturing,Germany,8651881.0,4059,40.0,95306.0,YES,16103,2023-05-22,2026-05-12,No,Policy renewal pending
+C0263,XYZ Corp,Healthcare,Singapore,5433152.0,4622,64.0,,No,85947,2020-05-08,2026-06-01,Yes,Frequent small claims
+C0674,Allied Corp,Healthcare,Singapore,7053757.0,3205,3.0,,Yes,76234,2020-09-17,2026-08-12,Y,Clean history
+C0439,Allied Pvt,Healthcare,Germany,351492.0,4849,58.0,148217.0,NO,90932,2022-08-18,2025-03-12,Yes,Frequent small claims
+C0775,Allied Solutions,Energy,UK,8511883.0,1377,92.0,92893.0,Y,5213,2024-03-21,2025-10-23,N,Clean history
+C0789,Secure Enterprises,Technology,UK,2313573.0,3731,47.0,68227.0,No,98000,2018-05-04,2025-08-27,Yes,Frequent small claims
+C0518,Global Enterprises,Technology,,7617836.0,633,,199187.0,Yes,64925,2021-05-23,2025-10-05,Yes,Policy renewal pending
+C0710,XYZ Ltd,Healthcare,Canada,5706594.0,1705,12.0,36433.0,N,84178,2018-11-15,2026-07-12,No,Frequent small claims
+C0165,Global Pvt,Financial Institutions,India,139353.0,3970,39.0,84239.0,N,15438,2021-08-25,2026-07-13,Yes,Data mismatch
+C0429,ABC Solutions,Telecom,Australia,1689228.0,1315,45.0,166822.0,Y,37158,2018-03-11,2026-06-20,N,Frequent small claims
+C0815,Secure Enterprises,Manufacturing,Singapore,5684263.0,785,73.0,135722.0,N,56583,2022-04-10,2026-02-03,Yes,Data mismatch
+C0503,XYZ Ltd,Retail,Germany,297775.0,742,42.0,148252.0,Y,33402,2018-11-06,2025-10-04,Y,Late claims
+C0578,Secure Enterprises,Energy,Australia,6181950.0,300,88.0,23199.0,N,33722,2018-11-28,2026-02-27,No,Good client
+C0020,ABC Ltd,Retail,UK,5764789.0,2382,68.0,148677.0,N,26400,2021-06-02,2026-03-26,No,Good client
+C0875,XYZ Pvt,Telecom,Australia,4973594.0,494,73.0,149941.0,N,15830,2021-08-12,2025-12-23,No,Needs review
+C0720,Secure Ltd,Financial Institutions,India,5454075.0,4003,1.0,136564.0,No,30257,2023-03-22,2026-03-25,Y,Frequent small claims
+C0272,Global Corp,Telecom,Canada,8270528.0,2474,73.0,137279.0,No,20025,2022-05-13,2026-09-10,No,Clean history
+C0653,NextGen Corp,Telecom,India,9034845.0,2964,32.0,194657.0,Yes,86908,2019-12-28,2025-05-20,N,Clean history
+C0173,NextGen Corp,Technology,Australia,7172695.0,110,82.0,143141.0,YES,41243,2022-10-26,2026-05-09,N,Data mismatch
+C0749,Allied Ltd,Energy,Germany,6658221.0,2843,68.0,133389.0,Yes,95040,2018-12-01,2025-06-11,Yes,Late claims
+C0072,NextGen Enterprises,Energy,India,8511855.0,964,3.0,39542.0,Yes,97562,2023-12-05,2026-02-28,No,Frequent small claims
+C0306,XYZ Pvt,Retail,Canada,2315167.0,3614,25.0,157155.0,Y,95985,2022-03-03,2026-10-25,N,Good client
+C0819,NextGen Pvt,Healthcare,USA,1337715.0,2939,87.0,156130.0,N,69341,2022-07-17,2026-12-07,Y,Good client
+C0658,Secure Ltd,Retail,Australia,3434817.0,3419,68.0,147980.0,Y,75403,2022-06-21,2026-01-07,Yes,Clean history
+C0389,Allied Pvt,Telecom,USA,6195929.0,4845,66.0,,Yes,21113,2019-03-18,2026-09-23,N,Frequent small claims
+C0940,Secure Pvt,Manufacturing,,1355564.0,1964,96.0,106754.0,Y,34700,2021-09-14,2025-12-28,Yes,Late claims
+C0638,XYZ Solutions,Financial Institutions,UK,6289573.0,2432,51.0,183904.0,YES,33457,2019-08-20,2026-10-02,Yes,Needs review
+C0747,Allied Pvt,Healthcare,UK,7685153.0,4453,3.0,129881.0,Y,917,,2026-03-14,Y,Policy renewal pending
+C0378,Global Enterprises,Technology,Canada,5687774.0,2433,4.0,99754.0,NO,44049,2022-05-01,2026-06-24,N,Data mismatch
+C0754,Secure Corp,Healthcare,Singapore,7415436.0,178,5.0,39064.0,No,16999,2018-01-16,2026-03-16,No,Policy renewal pending
+C0969,Allied Solutions,Energy,India,2527540.0,1918,4.0,138872.0,No,63909,2024-12-11,2025-07-27,Yes,Late claims
+C0152,NextGen Solutions,Financial Institutions,UK,4422252.0,1186,71.0,180251.0,Yes,45800,2023-08-07,2026-01-21,No,Clean history
+C0276,ABC Ltd,Financial Institutions,Singapore,7840141.0,4485,67.0,53651.0,YES,83961,2023-06-10,2025-11-27,Y,Needs review
+C0645,NextGen Corp,Financial Institutions,Canada,5792493.0,1444,60.0,7204.0,YES,90012,2023-09-24,2026-10-26,Yes,Good client
+C0879,ABC Pvt,Manufacturing,Australia,7917304.0,1848,71.0,68353.0,NO,45066,2022-02-24,2026-07-10,No,Frequent small claims
+C0468,Secure Enterprises,Manufacturing,Canada,9322335.0,3205,55.0,180829.0,No,49810,2024-08-16,2026-08-14,N,Needs review
+C0960,XYZ Ltd,Healthcare,Germany,7060534.0,2711,38.0,74087.0,NO,81972,2023-10-08,2025-05-19,Y,Clean history
+C0633,Secure Ltd,Technology,Singapore,3351298.0,1762,57.0,189626.0,Yes,25183,2023-02-12,2025-04-09,No,Good client
+C0004,Secure Corp,,Singapore,2334489.0,4293,14.0,192116.0,Yes,34998,2023-04-21,2026-07-05,Yes,Clean history
+C0948,Global Solutions,Technology,Germany,4490020.0,3660,54.0,20088.0,NO,1881,2024-10-24,2026-10-23,No,Needs review
+C0978,NextGen Corp,Retail,UK,1998739.0,2152,91.0,90774.0,NO,86402,2023-10-06,2025-08-10,No,Frequent small claims
+C0803,Allied Solutions,Manufacturing,,5089847.0,1674,35.0,155774.0,NO,54199,2020-09-04,2026-09-12,No,Policy renewal pending
+C0200,NextGen Pvt,Retail,Canada,6414127.0,3202,17.0,151045.0,No,69212,2022-02-05,2026-03-27,Yes,Needs review
+C0772,XYZ Ltd,Healthcare,Canada,3980993.0,4959,86.0,106971.0,Y,68226,2018-04-17,2026-05-15,Yes,Policy renewal pending
+C0699,Global Corp,Energy,India,7163410.0,3482,72.0,40063.0,NO,76312,2024-07-03,2026-04-10,N,Data mismatch
+C0555,ABC Solutions,Manufacturing,Singapore,6162903.0,139,89.0,127118.0,NO,77241,2019-03-23,2026-10-25,No,Data mismatch
+C0755,Allied Ltd,Energy,India,218033.0,1064,99.0,19122.0,Y,61845,2020-09-03,2025-04-19,Y,Policy renewal pending
+C0346,Global Enterprises,Financial Institutions,Germany,3475957.0,4315,,5276.0,No,11087,2019-06-17,2026-12-21,No,Needs review
+C0806,NextGen Enterprises,Technology,UK,3194235.0,3197,16.0,133498.0,No,3327,2022-04-28,2025-09-27,Y,Data mismatch
+C0579,NextGen Solutions,Manufacturing,UK,7025877.0,2480,15.0,41609.0,N,10625,2018-04-07,2025-08-30,Y,Needs review
+C0321,Global Pvt,Healthcare,UK,4453127.0,1963,94.0,198392.0,NO,15954,2022-07-23,2025-12-18,Y,Frequent small claims
+C0924,NextGen Ltd,Manufacturing,Germany,3477778.0,3779,85.0,50475.0,No,80072,2024-09-23,2026-07-15,N,Policy renewal pending
+C0081,XYZ Enterprises,Telecom,Germany,1385160.0,4616,98.0,150448.0,N,85024,2020-07-27,2026-09-17,Y,Frequent small claims
+C0910,Allied Solutions,Financial Institutions,Germany,3231209.0,711,2.0,39148.0,N,73616,2024-04-03,2025-01-17,Yes,Clean history
+C0823,NextGen Corp,Financial Institutions,Singapore,954016.0,1076,58.0,58521.0,YES,5750,2023-11-28,2026-08-08,Y,Late claims
+C0286,Allied Enterprises,Technology,Australia,3906688.0,4438,36.0,83518.0,YES,81982,2020-02-10,2025-05-01,Y,Clean history
+C0855,Allied Corp,Retail,USA,5384958.0,4932,72.0,113946.0,Yes,46172,2018-11-11,2026-04-08,No,Good client
+C0609,XYZ Enterprises,Telecom,Canada,9655196.0,3715,33.0,,No,44948,2024-07-21,2025-10-13,No,Policy renewal pending
+C0581,NextGen Pvt,Technology,Germany,6067106.0,508,71.0,144088.0,Y,76509,2024-10-06,2025-02-04,N,Clean history
+C0107,NextGen Pvt,Telecom,Canada,591234.0,1351,83.0,99475.0,No,55312,2022-08-23,2025-06-08,Yes,Late claims
+C0787,NextGen Enterprises,Retail,Singapore,521240.0,538,41.0,133727.0,Yes,89049,2024-05-24,2025-01-21,N,Clean history
+C0220,Secure Solutions,Healthcare,,5351035.0,4282,49.0,135544.0,No,54318,2018-05-02,2026-06-01,N,Good client
+C0621,Secure Corp,Financial Institutions,Canada,1210389.0,952,49.0,56955.0,N,49145,2021-05-03,2025-10-06,Yes,Frequent small claims
+C0406,NextGen Solutions,,UK,2264367.0,2035,16.0,,N,15534,2018-05-04,2025-12-08,Yes,Clean history
+C0219,Secure Pvt,Retail,USA,3545376.0,678,72.0,192954.0,No,95667,2022-08-16,2026-12-26,Yes,Needs review
+C0716,Secure Enterprises,Financial Institutions,UK,7857202.0,669,27.0,173925.0,Y,68798,2018-01-02,2025-02-26,Y,Late claims
+C0599,Allied Solutions,Telecom,UK,4137776.0,799,89.0,148022.0,NO,53442,2022-04-14,2026-02-01,N,Data mismatch
+C0955,Allied Enterprises,Manufacturing,Germany,9788053.0,2478,52.0,107842.0,NO,48920,2022-03-25,2025-02-24,Yes,Needs review
+C0511,XYZ Corp,Manufacturing,USA,633636.0,4015,84.0,116022.0,YES,27197,2018-03-29,2025-07-12,Yes,Good client
+C0290,Prime Corp,Telecom,Germany,2827423.0,4544,13.0,195026.0,Yes,79052,2022-01-26,2026-04-24,Y,Clean history
+C0328,NextGen Enterprises,Healthcare,Singapore,7882937.0,52,21.0,26826.0,YES,92471,2024-08-26,2026-04-07,N,Frequent small claims
+C0893,Prime Enterprises,Technology,USA,2709089.0,4865,9.0,15775.0,Yes,79675,2022-04-26,2026-09-08,Y,Clean history
+C0008,NextGen Enterprises,Technology,Germany,4572471.0,4472,66.0,91716.0,NO,44814,2018-12-10,2025-08-29,Yes,Clean history
+C0743,Secure Corp,Manufacturing,Singapore,9303739.0,1258,59.0,43870.0,Yes,19288,2023-04-03,2026-02-20,Yes,Good client
+C0648,ABC Ltd,Healthcare,USA,6295200.0,4782,99.0,36131.0,Yes,28901,2024-01-24,2026-12-13,N,Late claims
+C0862,Allied Enterprises,Technology,Singapore,1484418.0,155,25.0,,Yes,82956,2022-11-16,2026-12-05,Y,Clean history
+C0394,Prime Solutions,Manufacturing,Australia,6568703.0,2769,86.0,66388.0,NO,46313,2019-05-26,2026-01-11,N,Policy renewal pending
+C0606,NextGen Corp,Retail,UK,1700396.0,4840,68.0,133681.0,YES,47788,2023-01-03,2025-05-05,N,Late claims
+C0110,ABC Pvt,Energy,Australia,6267294.0,491,83.0,184510.0,Yes,95556,2021-08-11,2026-03-09,No,Needs review
+C0021,Prime Pvt,Telecom,Germany,9795979.0,3426,82.0,36337.0,Yes,50445,2020-11-19,2025-03-29,No,Data mismatch
+C0946,Secure Pvt,Telecom,,3457679.0,2614,40.0,,Y,13900,2021-04-02,2025-12-17,N,Data mismatch
+C0038,Allied Enterprises,Healthcare,Canada,3485659.0,1531,88.0,27207.0,Yes,67391,2018-11-27,2026-05-19,N,Policy renewal pending
+C0568,Secure Ltd,Retail,Australia,3438442.0,3194,50.0,31672.0,No,59049,2019-08-23,2026-05-03,N,Frequent small claims
+C0246,Global Enterprises,Energy,Singapore,6424167.0,4161,21.0,180767.0,N,76162,2022-07-18,2025-09-15,Yes,Good client
+C0120,Secure Enterprises,Technology,India,8071379.0,90,73.0,105123.0,No,22625,2023-04-23,2026-08-14,No,Needs review
+C0395,NextGen Pvt,Telecom,Canada,,3558,90.0,15207.0,YES,92365,2023-01-18,2026-04-20,N,Late claims
+C0267,Prime Corp,Financial Institutions,Germany,5234207.0,4842,92.0,191762.0,Y,92708,2021-06-16,2026-05-22,Y,Good client
+C0302,Prime Corp,Retail,Australia,4942611.0,60,40.0,41304.0,Yes,25398,2018-06-22,2025-11-18,N,Good client
+C0930,Allied Solutions,Financial Institutions,Singapore,,2399,44.0,62649.0,N,31480,2018-06-29,2025-11-12,N,Policy renewal pending
+C0992,XYZ Corp,Manufacturing,India,9866854.0,2418,90.0,26644.0,YES,46675,2019-01-31,2026-05-02,Yes,Frequent small claims
+C0132,Allied Ltd,Financial Institutions,Singapore,4674293.0,3003,97.0,153930.0,YES,94426,2019-08-23,2026-10-16,N,Needs review
+C0022,Secure Ltd,Technology,Germany,9405648.0,4574,55.0,141554.0,N,70305,2024-01-27,2025-04-05,Y,Frequent small claims
+C0854,Prime Ltd,Energy,Singapore,5305597.0,4615,100.0,196051.0,N,25479,2024-10-19,2026-02-03,Y,Data mismatch
+C0941,XYZ Enterprises,Energy,Australia,8614493.0,2522,65.0,143286.0,No,93036,2021-11-18,2026-05-02,N,Good client
+C0902,Secure Pvt,Financial Institutions,Germany,6967100.0,1512,59.0,153036.0,N,10345,2020-10-26,2025-05-07,N,Late claims
+C0580,Secure Solutions,Telecom,Singapore,9905685.0,2104,48.0,179037.0,Y,67165,2021-03-05,2025-07-24,Y,Late claims
+C0556,NextGen Enterprises,,Singapore,4508224.0,1759,77.0,52377.0,YES,93583,2022-11-28,2026-11-10,Y,Needs review
+C0083,Allied Enterprises,Retail,Canada,5273036.0,4541,25.0,76425.0,N,81938,2023-06-07,2025-05-12,Yes,Data mismatch
+C0614,Global Corp,Financial Institutions,Australia,3180201.0,2970,98.0,156519.0,Y,52198,2023-05-15,2025-01-14,N,Clean history
+C0329,Allied Solutions,Manufacturing,Germany,6626818.0,4305,8.0,73026.0,No,21225,2021-03-21,2026-04-19,Y,Needs review
+C0809,Secure Ltd,Energy,Germany,2959653.0,2240,99.0,189646.0,No,94386,2020-09-18,2026-08-15,No,Needs review
+C0159,Allied Corp,,USA,8423735.0,2761,,147810.0,YES,74816,2021-10-24,2026-07-06,Yes,Needs review
+C0595,Allied Solutions,Telecom,USA,9279875.0,1610,37.0,156379.0,NO,31455,2022-06-26,2026-08-18,N,Late claims
+C0635,ABC Solutions,Telecom,Australia,8489012.0,1323,74.0,121895.0,NO,71246,2024-12-27,2025-01-31,No,Data mismatch
+C0868,NextGen Corp,Healthcare,Australia,1235964.0,3466,22.0,186646.0,Y,44254,2021-11-30,2026-06-23,Yes,Good client
+C0037,XYZ Corp,Energy,,3516664.0,4923,30.0,75028.0,Y,99303,2018-08-23,2025-01-15,Y,Frequent small claims
+C0548,Allied Enterprises,Telecom,Australia,5906466.0,51,92.0,163819.0,NO,41003,2021-05-24,2026-03-01,No,Data mismatch
+C0183,Allied Solutions,Manufacturing,UK,8758144.0,3599,52.0,154765.0,Y,81132,2018-05-04,2026-04-22,No,Frequent small claims
+C0295,Allied Solutions,Financial Institutions,,3544084.0,2158,32.0,25878.0,Yes,54122,2021-05-01,2025-04-19,Y,Clean history
+C0189,Allied Corp,Telecom,Germany,5578047.0,3054,82.0,13036.0,NO,70821,2019-03-29,2026-09-08,No,Late claims
+C0485,Prime Solutions,Technology,Canada,9715215.0,2030,70.0,152281.0,YES,92910,2024-12-23,2025-08-01,No,Late claims
+C0014,Secure Corp,Financial Institutions,Canada,6119877.0,2532,75.0,173490.0,Y,41328,2019-05-04,2025-01-19,Yes,Data mismatch
+C0785,Prime Enterprises,Retail,USA,9649765.0,3878,52.0,113714.0,YES,14995,2023-07-28,2026-07-14,Y,Good client
+C0029,Global Pvt,Financial Institutions,UK,5247581.0,4339,60.0,38623.0,Y,85842,2023-12-18,2025-11-24,N,Frequent small claims
+C0367,ABC Corp,Energy,USA,549395.0,367,30.0,145836.0,NO,93782,2022-10-17,2026-04-27,Yes,Data mismatch
+C0042,Secure Ltd,Financial Institutions,Singapore,1925665.0,104,67.0,195590.0,YES,52815,2023-01-24,2025-02-14,N,Late claims
+C0657,Prime Pvt,Technology,USA,8996761.0,4623,26.0,103934.0,N,93459,2020-01-01,2025-04-09,Yes,Clean history
+C0350,ABC Pvt,Retail,Germany,,1468,95.0,57887.0,N,17413,2019-01-04,2026-11-08,N,Late claims
+C0419,ABC Pvt,Energy,Germany,5798848.0,1297,37.0,134936.0,NO,69724,2019-08-06,2026-11-23,Yes,Needs review
+C0121,ABC Enterprises,Financial Institutions,Australia,3431068.0,2131,87.0,,Yes,32088,2019-07-06,2026-06-07,N,Data mismatch
+C0103,XYZ Pvt,Retail,UK,6345035.0,4083,43.0,,YES,94776,2018-01-07,2025-02-16,N,Good client
+C0686,ABC Pvt,Financial Institutions,Australia,807689.0,2096,43.0,28989.0,NO,52656,2018-11-11,2025-04-12,N,Frequent small claims
+C0256,Secure Corp,Healthcare,Australia,3004941.0,4904,51.0,123418.0,YES,23248,2021-10-13,2026-04-19,Yes,Data mismatch
+C0559,ABC Ltd,Healthcare,Singapore,5803737.0,3091,73.0,191693.0,Yes,76674,2022-02-25,2026-07-10,Y,Needs review
+C0494,Global Pvt,Manufacturing,Canada,,1034,10.0,175201.0,YES,36945,2022-01-25,2025-04-27,No,Clean history
+C0687,Allied Solutions,Energy,Australia,1396516.0,4605,19.0,80451.0,NO,17375,2021-07-08,2025-05-31,N,Frequent small claims
+C0416,Global Ltd,Financial Institutions,Australia,7168121.0,2564,24.0,28782.0,YES,56053,2024-06-07,2026-02-01,N,Data mismatch
+C0675,XYZ Corp,Technology,USA,650222.0,179,72.0,111956.0,Yes,61114,2023-08-16,2025-04-08,No,Good client
+C0688,NextGen Corp,Healthcare,Singapore,3563351.0,4073,69.0,23990.0,N,65206,2021-03-18,2026-04-15,Y,Good client
+C0374,XYZ Pvt,Retail,India,3000603.0,2046,1.0,,Yes,36455,2020-12-18,2026-05-02,Y,Data mismatch
+C0147,Allied Corp,Manufacturing,UK,3007360.0,4939,7.0,176675.0,Y,34510,,2026-03-22,Yes,Needs review
+C0870,NextGen Pvt,Manufacturing,Canada,,3580,83.0,130555.0,Yes,12453,2019-06-20,2026-02-04,Y,Policy renewal pending
+C0348,XYZ Enterprises,Energy,Canada,3339576.0,4185,27.0,153683.0,Y,23408,2021-12-23,2026-05-08,No,Late claims
+C0423,Secure Pvt,Energy,Australia,5184921.0,2432,74.0,171668.0,Y,10799,2022-12-27,2026-12-07,N,Good client
+C0843,XYZ Ltd,Financial Institutions,,4299591.0,456,82.0,39540.0,NO,19539,2021-09-26,2025-12-09,N,Policy renewal pending
+C0531,ABC Pvt,Technology,Australia,5509861.0,1617,,128106.0,No,78542,2022-11-12,2025-04-24,No,Good client
+C0891,Prime Corp,Healthcare,Australia,3781262.0,1710,81.0,183140.0,No,23906,2022-01-23,2026-02-28,No,Policy renewal pending
+C0799,Global Corp,Technology,Canada,4712338.0,3762,11.0,148369.0,Yes,82895,2021-01-13,2025-09-24,Yes,Frequent small claims
+C0757,Global Pvt,Healthcare,USA,5972354.0,4662,92.0,73431.0,No,61169,2018-04-29,2026-08-01,No,Late claims
+C0162,Global Ltd,Energy,Singapore,161087.0,1835,10.0,16120.0,No,79832,2018-07-03,2026-01-10,No,Policy renewal pending
+C0035,Global Pvt,Financial Institutions,Germany,5599720.0,4200,45.0,73648.0,No,39194,2018-02-08,2025-03-16,Yes,Frequent small claims
+C0906,Secure Ltd,Healthcare,USA,6197091.0,3229,68.0,173616.0,Y,33455,2022-10-03,2025-11-17,Yes,Policy renewal pending
+C0199,XYZ Corp,Financial Institutions,USA,2015631.0,2758,64.0,68918.0,Y,94851,2019-01-01,2025-04-06,N,Needs review
+C0677,Global Solutions,Financial Institutions,USA,7895134.0,4983,97.0,191823.0,N,25525,2020-11-29,2025-07-10,N,Frequent small claims
+C0617,Prime Ltd,Healthcare,Germany,9763340.0,804,43.0,34336.0,Y,24031,2020-10-09,2025-03-02,No,Clean history
+C0231,Prime Corp,Financial Institutions,India,786976.0,1516,65.0,161951.0,YES,83104,2020-11-25,2025-08-15,Y,Policy renewal pending
+C0921,Global Pvt,Financial Institutions,Australia,5625633.0,819,11.0,116435.0,N,54353,2022-11-26,2026-07-29,Y,Policy renewal pending
+C0866,XYZ Corp,Energy,USA,5338331.0,2686,26.0,79601.0,No,11349,2024-06-01,2025-05-23,Y,Clean history
+C0059,ABC Corp,Energy,,8685377.0,4033,10.0,128053.0,No,11254,2019-09-18,2025-03-09,N,Clean history
+C0714,XYZ Solutions,Telecom,UK,3891481.0,1792,,72293.0,Yes,5741,2022-11-12,2026-08-13,N,Clean history
+C0075,ABC Solutions,Telecom,UK,2804238.0,563,6.0,83931.0,No,19552,2019-07-12,2025-07-04,Y,Clean history
+C0626,XYZ Ltd,Financial Institutions,,1735156.0,2121,98.0,169559.0,NO,15899,2023-08-23,2026-12-24,No,Policy renewal pending
+C0837,XYZ Corp,,,6981289.0,993,17.0,148674.0,NO,69681,2018-01-28,2025-04-12,Yes,Policy renewal pending
+C0317,Prime Solutions,Energy,Germany,7513023.0,103,46.0,105167.0,Y,64450,2023-03-13,2026-09-18,Y,Good client
+C0848,ABC Enterprises,Financial Institutions,India,7896324.0,764,59.0,192647.0,Y,90695,2019-02-17,2026-07-20,Y,Needs review
+C0629,Global Corp,Technology,India,4563418.0,2829,85.0,186196.0,N,3748,2023-05-14,2026-03-23,Yes,Good client
+C0956,XYZ Ltd,Retail,Germany,,4203,93.0,166953.0,N,67231,2018-10-09,2026-07-08,Y,Policy renewal pending
+C0422,ABC Solutions,Retail,USA,388790.0,621,21.0,169276.0,Yes,32972,2020-08-28,2026-11-13,N,Needs review
+C0792,Secure Enterprises,Financial Institutions,Canada,8475741.0,1717,75.0,156094.0,Yes,94835,2023-11-13,2026-04-22,Yes,Good client
+C0066,ABC Solutions,Energy,Australia,2979190.0,824,95.0,28377.0,YES,72827,2023-04-24,2025-07-26,Yes,Needs review
+C0842,ABC Corp,Energy,UK,8867500.0,70,79.0,48361.0,YES,45838,2020-05-05,2026-12-19,No,Clean history
+C0646,Prime Pvt,Manufacturing,UK,8347752.0,4331,59.0,97769.0,No,78278,2023-04-22,2026-03-28,Yes,Late claims
+C0338,NextGen Pvt,Manufacturing,Canada,8937590.0,1430,22.0,172260.0,NO,2591,2023-04-13,2026-06-28,No,Late claims
+C0493,Global Solutions,Energy,India,,1657,61.0,37441.0,NO,37548,2018-11-03,2025-08-20,No,Policy renewal pending
+C0723,XYZ Pvt,Financial Institutions,UK,8004069.0,1366,48.0,160344.0,YES,5232,2024-10-03,2025-12-17,Yes,Needs review
+C0308,Prime Enterprises,Telecom,USA,6645535.0,3451,78.0,27190.0,N,67173,2022-06-28,2026-12-03,Y,Late claims
+C0297,Allied Enterprises,Financial Institutions,India,7079451.0,988,98.0,198226.0,Yes,92247,2024-02-07,2025-09-24,No,Clean history
+C0445,ABC Enterprises,Technology,India,9802701.0,2478,82.0,19743.0,Y,50940,2019-10-15,2025-04-07,Y,Late claims
+C0202,Secure Enterprises,Financial Institutions,Singapore,2108187.0,2471,41.0,64500.0,N,90009,2019-11-12,2026-06-15,Y,Late claims
+C0587,Secure Corp,Healthcare,UK,7449369.0,459,37.0,59131.0,N,52953,2023-01-17,2026-05-28,No,Frequent small claims
+C0724,XYZ Corp,Technology,Australia,2345131.0,1093,4.0,52153.0,Y,67753,2020-07-28,2025-01-12,No,Clean history
+C0376,XYZ Enterprises,Healthcare,Germany,9623856.0,1335,,111752.0,YES,41605,2024-12-26,2025-01-29,Yes,Late claims
+C0604,Prime Corp,Telecom,USA,4985211.0,3752,33.0,168317.0,NO,78976,2024-04-27,2025-07-20,Yes,Frequent small claims
+C0852,NextGen Solutions,Telecom,India,7335574.0,4934,38.0,54812.0,N,61799,2024-08-22,2025-02-09,Y,Late claims
+C0957,NextGen Enterprises,Financial Institutions,Germany,3421127.0,391,22.0,83077.0,YES,80357,2020-11-26,2026-05-07,No,Data mismatch
+C0047,Global Ltd,Manufacturing,Australia,6497986.0,4458,73.0,66035.0,Y,69267,2023-11-28,2025-06-01,Yes,Clean history
+C0179,Global Solutions,Manufacturing,Germany,3095765.0,1302,60.0,52093.0,YES,65618,2021-01-18,2026-11-01,No,Frequent small claims
+C0410,NextGen Ltd,Financial Institutions,Canada,1848014.0,2114,83.0,73487.0,No,49170,2018-09-06,2026-05-25,No,Late claims
+C0094,Allied Solutions,Healthcare,Germany,2331785.0,4273,,110848.0,NO,45270,2018-07-08,2026-09-26,Yes,Clean history
+C0111,XYZ Ltd,Retail,Germany,9386029.0,2126,34.0,72534.0,Y,62875,2018-01-04,2026-08-14,Y,Clean history
+C0928,Secure Solutions,Retail,Germany,8457956.0,3401,20.0,98526.0,N,6587,2019-08-28,2026-10-11,No,Needs review
+C0386,XYZ Corp,Manufacturing,USA,283062.0,4336,46.0,127115.0,Y,72617,2022-01-27,2026-11-19,N,Frequent small claims
+C0818,Prime Pvt,Telecom,Canada,164323.0,3065,72.0,131310.0,YES,9076,2021-01-14,2026-09-20,Y,Clean history
+C0796,Prime Enterprises,Energy,Germany,9695702.0,1050,22.0,86050.0,No,78653,2024-10-08,2026-06-21,Y,Good client
+C0990,Global Enterprises,Telecom,,9259861.0,3993,12.0,71216.0,Yes,29437,2024-06-15,2025-03-07,Yes,Data mismatch
+C0694,Prime Ltd,Technology,Germany,9117469.0,679,24.0,21241.0,Yes,46287,2020-10-28,2025-11-28,Y,Policy renewal pending
+C0068,NextGen Solutions,Financial Institutions,UK,9800344.0,3206,65.0,43211.0,YES,87051,2018-02-26,2026-12-07,Y,Late claims
+C0053,Global Pvt,Technology,India,5658019.0,3725,2.0,158504.0,Yes,17266,2019-10-31,2025-10-25,Y,Data mismatch
+C0312,Global Corp,Manufacturing,Australia,2089173.0,986,,46862.0,N,25500,2018-05-05,2025-09-09,Yes,Late claims
+C0335,Prime Corp,Retail,Singapore,6655968.0,2426,86.0,56919.0,No,69463,2023-03-09,2026-02-17,No,Data mismatch
+C0269,ABC Ltd,Technology,UK,6830886.0,3561,95.0,,NO,18257,2024-02-11,2026-09-23,N,Data mismatch
+C0116,Secure Pvt,Technology,India,8611017.0,124,50.0,124006.0,No,87728,2019-04-05,2025-09-06,Yes,Clean history
+C0280,Global Ltd,Retail,UK,9687994.0,2100,78.0,,No,38506,2019-02-20,2025-07-15,No,Data mismatch
+C0800,XYZ Enterprises,Technology,Canada,1133255.0,1417,94.0,73323.0,NO,89132,2020-03-03,2025-05-01,Y,Frequent small claims
+C0861,ABC Corp,Telecom,,6738155.0,1742,84.0,181679.0,YES,57980,2019-07-16,2026-10-27,Y,Policy renewal pending
+C0337,Prime Pvt,Technology,Canada,,1983,89.0,163175.0,YES,95980,2022-12-10,2026-11-14,Y,Policy renewal pending
+C0590,Prime Solutions,Energy,Canada,7786841.0,4954,82.0,197682.0,No,72075,2023-06-15,2026-02-03,Y,Data mismatch
+C0886,Allied Corp,Telecom,Singapore,3186176.0,4026,38.0,50095.0,YES,34057,2019-01-01,2025-05-11,N,Frequent small claims
+C0240,NextGen Pvt,Healthcare,Australia,1679159.0,4509,24.0,60568.0,YES,60030,2022-10-06,2026-12-22,N,Late claims
+C0039,ABC Ltd,,Singapore,3485357.0,1951,30.0,86554.0,No,13794,2020-05-15,2026-10-22,N,Policy renewal pending
+C0964,Secure Pvt,Manufacturing,UK,6362105.0,1544,4.0,83958.0,Y,50818,2024-06-20,2026-01-15,No,Data mismatch
+C0557,ABC Solutions,Telecom,Singapore,4135493.0,2219,70.0,159626.0,Y,76502,2023-04-09,2025-07-12,No,Data mismatch
+C0473,Secure Solutions,Manufacturing,Australia,170640.0,3503,47.0,194233.0,No,43949,2021-09-11,2025-09-08,Y,Data mismatch
+C0030,NextGen Ltd,Retail,Canada,2054354.0,2211,12.0,195228.0,N,70533,2018-03-13,2025-04-18,No,Policy renewal pending
+C0730,Secure Enterprises,Manufacturing,Canada,,3878,12.0,17867.0,NO,53535,2020-03-24,2025-05-24,Yes,Frequent small claims
+C0463,Global Pvt,Financial Institutions,USA,4811075.0,2894,48.0,59238.0,Y,72309,2019-09-29,2026-02-09,N,Clean history
+C0471,XYZ Enterprises,Financial Institutions,UK,5163778.0,3828,63.0,32990.0,Y,4234,2023-02-12,2026-03-24,N,Data mismatch
+C0767,ABC Ltd,Technology,India,567010.0,4002,47.0,199141.0,Yes,86795,2024-06-18,2026-08-27,Y,Policy renewal pending
+C0444,XYZ Pvt,Manufacturing,Singapore,2348988.0,812,30.0,144316.0,N,65048,2021-08-02,2025-01-08,N,Data mismatch
+C0151,Allied Solutions,Telecom,Germany,7008531.0,2108,14.0,26312.0,NO,94767,2020-08-20,2026-02-01,Yes,Frequent small claims
+C0722,Global Pvt,Energy,USA,2482357.0,1018,32.0,98344.0,YES,95989,2022-05-11,2026-08-31,N,Clean history
+C0128,XYZ Enterprises,Healthcare,Canada,9702083.0,4876,,41027.0,NO,4117,2021-03-10,2026-11-12,Yes,Needs review
+C0871,Prime Pvt,Retail,Singapore,4025282.0,1336,51.0,25700.0,Yes,18814,2019-12-20,2025-09-15,Yes,Needs review
+C0899,XYZ Ltd,Healthcare,India,445266.0,3323,75.0,142686.0,No,25566,2018-04-07,2025-03-15,No,Clean history
+C0161,Allied Pvt,Manufacturing,Singapore,1484250.0,4551,21.0,183570.0,Yes,42137,2023-09-25,2026-05-22,No,Needs review
+C0620,ABC Pvt,Energy,Canada,6385088.0,402,86.0,74561.0,No,25939,2020-03-28,2025-08-25,No,Clean history
+C0420,Allied Corp,Energy,USA,1207677.0,3952,85.0,151664.0,YES,12207,2018-03-20,2025-11-02,Y,Needs review
+C0975,XYZ Enterprises,Retail,UK,9372985.0,2715,,100102.0,No,91679,2023-05-21,2025-04-09,N,Clean history
+C0553,Prime Solutions,Healthcare,Canada,2487312.0,3224,54.0,23135.0,N,34693,2019-08-27,2025-09-26,N,Frequent small claims
+C0001,XYZ Solutions,Retail,Germany,6523388.0,4994,76.0,78869.0,NO,18287,2022-03-29,2025-05-02,Yes,Policy renewal pending
+C0623,Allied Ltd,Manufacturing,Canada,4012942.0,208,98.0,156165.0,Y,22867,2019-12-31,2025-10-13,N,Late claims
+C0354,XYZ Ltd,Financial Institutions,USA,9514323.0,4183,44.0,61622.0,Yes,66197,2018-03-19,2025-06-06,No,Late claims
+C0668,Allied Pvt,Manufacturing,Singapore,4200673.0,1575,58.0,143731.0,Yes,46754,2020-03-21,2025-02-01,N,Frequent small claims
+C0528,Allied Pvt,Telecom,India,6300646.0,3616,41.0,72055.0,YES,17889,2022-01-04,2025-03-24,Yes,Late claims
+C0227,Prime Ltd,Manufacturing,USA,3604473.0,2469,83.0,,NO,73788,2020-08-01,2026-12-24,Y,Frequent small claims
+C0859,Global Corp,Technology,Germany,,2591,,199886.0,No,82569,2021-06-09,2025-03-26,Y,Good client
+C0186,Prime Enterprises,Healthcare,Germany,4472093.0,1686,68.0,189233.0,NO,24351,2024-07-22,2026-05-19,No,Clean history
+C0441,Allied Solutions,Retail,USA,591072.0,334,4.0,109859.0,Yes,36413,2024-11-12,2026-09-09,No,Policy renewal pending
+C0253,ABC Pvt,Manufacturing,India,4427576.0,595,83.0,95768.0,NO,33458,2019-05-05,2025-11-05,Y,Frequent small claims
+C0865,Prime Corp,Healthcare,Canada,1192501.0,4066,14.0,179870.0,No,44825,2020-02-21,2026-02-21,No,Data mismatch
+C0680,Prime Enterprises,Healthcare,Singapore,9852741.0,3978,6.0,12006.0,N,94715,2018-06-08,2026-11-07,No,Good client
+C0113,Global Solutions,Telecom,Australia,5988794.0,2707,89.0,174316.0,NO,62120,2024-01-17,2025-07-03,Yes,Good client
+C0205,NextGen Solutions,Retail,,7455740.0,3692,60.0,115659.0,Yes,66395,2024-07-06,2025-10-18,N,Needs review
+C0672,Prime Ltd,Manufacturing,Canada,,4649,66.0,118688.0,No,63344,2018-10-31,2026-08-27,N,Clean history
+C0973,NextGen Enterprises,Energy,Germany,9000019.0,4456,67.0,,YES,63293,2021-03-20,2026-11-12,N,Frequent small claims
+C0370,Allied Enterprises,Energy,Canada,1360386.0,2795,8.0,83471.0,Y,32115,2023-08-31,2025-05-13,N,Late claims
+C0015,Secure Pvt,Energy,Australia,3444769.0,1001,67.0,101038.0,NO,70482,2024-04-24,2025-09-18,No,Data mismatch
+C0764,XYZ Enterprises,Healthcare,,2292614.0,4099,44.0,41191.0,No,12192,2021-08-23,2026-01-25,N,Data mismatch
+C0933,XYZ Ltd,Healthcare,UK,3486501.0,1175,61.0,149228.0,No,23569,2018-01-21,2026-06-26,No,Late claims
+C0108,Allied Corp,Energy,UK,5501218.0,2591,31.0,7282.0,YES,10561,2021-06-29,2026-01-17,N,Late claims
+C0534,Allied Solutions,Energy,UK,5246386.0,4247,31.0,43342.0,NO,21639,2019-08-06,2025-07-05,Yes,Good client
+C0078,XYZ Corp,Healthcare,,5617209.0,4891,98.0,180481.0,NO,23620,2022-04-26,2026-05-29,Yes,Needs review
+C0698,ABC Ltd,Financial Institutions,Singapore,7485034.0,2941,85.0,183634.0,Y,96393,2023-03-26,2026-07-25,Y,Good client
+C0249,NextGen Enterprises,Technology,USA,4478727.0,3571,100.0,194414.0,Yes,1014,2023-08-12,2026-06-22,N,Needs review
+C0670,ABC Enterprises,,India,8804434.0,1696,26.0,82240.0,N,60815,2019-10-24,2026-09-24,N,Needs review
+C0456,Allied Pvt,Retail,Australia,,1503,76.0,181481.0,N,59191,2021-09-12,2025-12-10,Y,Late claims
+C0678,Prime Corp,Manufacturing,Germany,2673619.0,3266,42.0,131311.0,Yes,79818,2018-06-04,2025-08-01,Yes,Clean history
+C0464,XYZ Ltd,Financial Institutions,Germany,7222313.0,2254,45.0,63608.0,No,95430,2019-06-26,2026-01-17,N,Data mismatch
+C0273,ABC Solutions,Telecom,India,4401754.0,4411,66.0,51099.0,Y,4458,2020-09-28,2026-08-23,Y,Data mismatch
+C0791,XYZ Pvt,Technology,USA,2355363.0,4639,58.0,89289.0,Yes,51539,2024-10-25,2026-02-23,Y,Good client
+C0056,Secure Pvt,Healthcare,India,3684702.0,1361,78.0,86348.0,Yes,43526,2019-03-31,2026-04-11,No,Data mismatch
+C0596,Secure Pvt,Technology,UK,7984479.0,1316,88.0,107518.0,Yes,16767,2020-07-11,2026-04-17,N,Good client
+C0830,Prime Corp,Retail,Canada,,61,99.0,187385.0,Y,34314,2024-01-21,2026-06-20,No,Needs review
+C0656,Prime Corp,Healthcare,USA,1286887.0,2197,20.0,161040.0,Yes,96282,2024-03-04,2025-09-15,Yes,Late claims
+C0372,Global Corp,Manufacturing,Australia,7119431.0,3161,16.0,121923.0,No,54316,2024-12-22,2025-11-28,Yes,Data mismatch
+C0310,Secure Ltd,Technology,Canada,9178552.0,874,22.0,164470.0,YES,13652,2024-08-07,2026-04-05,No,Policy renewal pending
+C0569,ABC Solutions,Technology,Singapore,5026203.0,2320,,9213.0,No,39178,2022-12-09,2025-01-18,Yes,Good client
+C0762,XYZ Solutions,Energy,USA,7687768.0,2524,83.0,144271.0,NO,4529,2023-05-08,2026-10-17,N,Clean history
+C0032,Secure Enterprises,Manufacturing,USA,,996,42.0,180674.0,N,82912,2022-10-05,2026-02-27,Yes,Needs review
+C0185,XYZ Pvt,Telecom,Canada,5600306.0,2372,26.0,120598.0,Yes,12905,2022-04-11,2026-05-19,Yes,Needs review
+C0122,XYZ Enterprises,Manufacturing,USA,3356415.0,4733,83.0,153586.0,YES,79650,2021-04-13,2025-11-22,N,Policy renewal pending
+C0245,NextGen Solutions,Financial Institutions,India,8867088.0,2819,,182912.0,YES,14924,2023-01-22,2026-03-19,No,Data mismatch
+C0588,NextGen Enterprises,Technology,Canada,2767867.0,944,58.0,160159.0,No,84481,2022-03-13,2026-11-08,No,Frequent small claims
+C0307,XYZ Pvt,Healthcare,Singapore,3986402.0,1439,59.0,23354.0,Y,56704,2022-10-11,2026-02-17,N,Clean history
+C0462,Secure Corp,Healthcare,Germany,3469720.0,936,19.0,117056.0,No,43954,2024-09-09,2026-08-26,No,Clean history
+C0175,NextGen Enterprises,Manufacturing,Germany,5065050.0,1689,32.0,155871.0,Y,60272,2020-04-30,2025-06-20,No,Good client
+C0009,Allied Solutions,Healthcare,Canada,4623669.0,1842,85.0,59245.0,YES,85091,2023-05-20,2025-11-13,No,Frequent small claims
+C0164,ABC Pvt,Energy,Australia,1596176.0,1812,58.0,27852.0,Yes,62260,2020-02-18,2025-12-18,Yes,Frequent small claims
+C0509,NextGen Corp,Healthcare,India,6937433.0,2303,,125592.0,Yes,45095,2021-08-04,2026-09-01,N,Policy renewal pending
+C0961,NextGen Ltd,Financial Institutions,India,7474592.0,1282,20.0,17297.0,Y,75485,2018-08-17,2025-06-08,Yes,Data mismatch
+C0361,NextGen Ltd,Manufacturing,Australia,4297355.0,3070,56.0,131439.0,N,6968,2024-11-28,2025-07-22,No,Clean history
+C0540,XYZ Ltd,Telecom,India,1979490.0,2498,30.0,86423.0,YES,59197,2020-01-03,2025-05-20,N,Clean history
+C0794,ABC Enterprises,Retail,UK,6536446.0,4164,23.0,10722.0,No,46223,2018-11-26,2025-06-09,Yes,Good client
+C0905,ABC Enterprises,Retail,Australia,9903005.0,532,41.0,193221.0,No,70744,2020-05-19,2026-09-10,No,Policy renewal pending
+C0733,Allied Ltd,Energy,Singapore,4882883.0,1085,16.0,36279.0,Y,52113,2022-03-10,2025-03-25,Y,Data mismatch
+C0998,Prime Corp,Healthcare,UK,6008635.0,4945,93.0,172248.0,Yes,10878,2021-05-19,2025-09-24,No,Late claims
+C0077,Secure Corp,,USA,3594679.0,3644,13.0,21715.0,YES,72525,2024-12-14,2025-07-12,Yes,Clean history
+C0784,Secure Corp,Financial Institutions,USA,9292300.0,2682,35.0,24710.0,N,76949,2024-01-09,2025-06-16,N,Policy renewal pending
+C0692,ABC Ltd,Financial Institutions,India,1949396.0,3131,74.0,147105.0,Yes,23993,2022-06-15,2026-01-17,N,Frequent small claims
+C0080,Global Pvt,Healthcare,Germany,6823771.0,4852,21.0,155158.0,NO,31802,2020-02-22,2026-09-06,Y,Late claims
+C0466,ABC Enterprises,Financial Institutions,Canada,2740328.0,1873,94.0,167969.0,NO,11676,2020-02-11,2026-05-19,No,Good client
+C0284,ABC Ltd,Healthcare,India,4203022.0,2083,10.0,192187.0,Y,73233,2019-01-31,2025-10-07,N,Clean history
+C0411,Prime Enterprises,Manufacturing,Australia,7256720.0,4505,58.0,153694.0,N,80201,2023-02-14,2025-02-01,No,Needs review
+C0786,XYZ Ltd,Manufacturing,Germany,1414532.0,3280,34.0,160604.0,NO,23559,2019-07-31,2025-01-16,N,Needs review
+C0952,Allied Corp,Manufacturing,,7467664.0,1635,15.0,15014.0,YES,88059,2024-02-22,2026-04-22,No,Clean history
+C0334,Allied Ltd,Financial Institutions,UK,6199628.0,3210,75.0,95102.0,NO,14387,,2025-01-23,No,Policy renewal pending
+C0396,NextGen Pvt,Financial Institutions,,276615.0,3791,58.0,164292.0,NO,69166,2020-03-02,2025-06-23,N,Policy renewal pending
+C0061,NextGen Enterprises,Energy,Germany,1371741.0,214,,171892.0,N,11442,2019-12-05,2026-08-22,No,Data mismatch
+C0304,Global Solutions,Financial Institutions,Australia,4435868.0,4917,55.0,191292.0,Y,13261,2020-12-05,2025-11-02,Yes,Needs review
+C0087,Prime Corp,Energy,India,1604384.0,3627,60.0,187721.0,Y,84526,2020-03-17,2025-05-30,No,Needs review
+C0560,ABC Enterprises,Energy,UK,1971403.0,155,45.0,63283.0,No,81471,2023-01-27,2025-12-14,Yes,Good client
+C0063,Secure Corp,Financial Institutions,UK,1146797.0,872,54.0,139832.0,N,53747,2024-08-10,2025-10-08,No,Frequent small claims
+C0935,Allied Corp,Manufacturing,Australia,4688334.0,1240,,30711.0,No,71094,2020-03-15,2026-03-30,Yes,Needs review
+C0884,ABC Pvt,Technology,Canada,,1350,47.0,118943.0,No,47295,2023-06-22,2026-09-25,N,Needs review
+C0031,NextGen Pvt,Manufacturing,India,8342680.0,3343,49.0,40634.0,No,56184,2021-06-30,2026-01-08,No,Policy renewal pending
+C0474,Allied Solutions,Energy,UK,4222263.0,3561,75.0,158512.0,Yes,37405,2020-08-27,2026-09-05,Yes,Policy renewal pending
+C0141,Global Corp,Retail,Germany,642335.0,3117,38.0,80769.0,YES,94803,2023-09-14,2026-07-14,N,Clean history
+C0592,ABC Pvt,Manufacturing,Australia,1444027.0,2184,3.0,137473.0,YES,99161,2020-09-10,2026-06-04,Y,Data mismatch
+C0691,ABC Solutions,Energy,USA,9138807.0,3516,12.0,41081.0,N,83178,2023-06-24,2025-01-29,N,Data mismatch
+C0808,XYZ Corp,Healthcare,USA,6086126.0,4856,66.0,97764.0,NO,64418,2019-08-16,2025-09-30,No,Clean history
+C0944,ABC Corp,Technology,Australia,4524507.0,1854,87.0,141213.0,Yes,71045,2021-11-19,2025-04-26,Y,Needs review
+C0325,Global Solutions,Energy,UK,8856262.0,2787,18.0,85018.0,N,2187,2021-11-24,2025-11-22,N,Data mismatch
+C0726,Prime Solutions,Telecom,India,8580473.0,2894,70.0,59110.0,No,89765,2024-03-20,2025-05-31,N,Late claims
+C0639,XYZ Enterprises,Financial Institutions,Singapore,1423483.0,1491,39.0,33151.0,Y,85679,2020-11-10,2025-04-30,No,Good client
+C0102,Secure Enterprises,Manufacturing,UK,8088004.0,2649,93.0,166445.0,Yes,51913,2020-05-01,2025-03-02,Yes,Late claims
+C0034,Global Pvt,Healthcare,UK,,3385,82.0,54334.0,No,18624,2019-03-15,2026-06-24,Yes,Needs review
+C0104,Allied Pvt,Manufacturing,UK,,286,2.0,142103.0,Yes,25991,2019-08-03,2025-09-20,Yes,Data mismatch
+C0465,Global Solutions,Healthcare,Singapore,6954500.0,1148,100.0,94081.0,NO,717,2022-09-25,2025-03-17,Y,Frequent small claims
+C0158,Secure Corp,Healthcare,,7305547.0,4200,91.0,49014.0,NO,40387,2023-04-30,2025-04-27,N,Policy renewal pending
+C0194,Allied Pvt,Retail,USA,6759908.0,1391,38.0,142416.0,N,50931,2021-11-12,2026-10-20,Yes,Needs review
+C0344,XYZ Corp,Energy,Canada,766326.0,1268,29.0,163015.0,Y,61753,2020-04-07,2026-12-12,Yes,Frequent small claims
+C0801,NextGen Corp,Retail,Canada,7182212.0,871,15.0,28816.0,N,91066,2020-02-21,2025-11-12,Y,Good client
+C0459,ABC Corp,,India,257164.0,565,31.0,12016.0,Yes,27048,2021-06-15,2025-04-21,Y,Clean history
+C0954,Prime Solutions,Energy,,5452825.0,3111,26.0,183207.0,NO,46151,2024-03-29,2026-10-21,N,Late claims
+C0732,NextGen Enterprises,Manufacturing,,9918159.0,1279,46.0,30851.0,N,30908,2022-10-17,2025-06-25,No,Late claims
+C0281,Secure Enterprises,,Germany,3538618.0,3550,41.0,135351.0,NO,5668,,2025-09-05,N,Good client
